@@ -1,3 +1,15 @@
+---
+created: 241222 21:50:05
+updated: 250419 20:07:27
+tags:
+  - idea
+  - tech
+  - programming_language
+aliases:
+  - MyStRoNgEsTlAnG
+id: applenote13
+---
+
 型はメタ情報を格納するという発想に基づく
 全ての型はLang型を実装
 言語のコアとなる型は2つ。DataとOP（Operator）

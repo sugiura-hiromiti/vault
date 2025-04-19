@@ -1,3 +1,14 @@
+---
+created: 231215 10:25:54
+updated: 250419 19:48:31
+tags:
+  - mac
+  - dtm
+aliases:
+  - mac_dtm_setup
+id: applenote4
+---
+
 [[Mac setup]]
 #dtm 
 Sforzando

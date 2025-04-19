@@ -1,4 +1,12 @@
+---
+created: 240805 17:34:03
+updated: 250419 20:01:51
+aliases:
+  - vimium_c
+id: applenote10
+---
 #firefox 
+
 unmapAll
 
 map f LinkHints.activate

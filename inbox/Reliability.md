@@ -1,5 +1,0 @@
-- Performance Efficiency
-- Security
-- Cost Optimization
-- Operational Excellence
-- Sustainability
