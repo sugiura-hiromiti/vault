@@ -1,0 +1,19 @@
+- [ ] wat(wasm)
+- [ ] Sql
+- [ ] Ts
+- [ ] Js
+- [ ] Assembly
+- [ ] C
+- [ ] Cpp
+- [ ] Swift
+- [ ] Scheme
+- [ ] Toml
+- [ ] Python
+- [ ] Shell
+- [ ] Json
+- [ ] Markdown
+- [ ] Nix
+- [x] Java
+- [x] html&css
+- [x] Lua
+- [x] Rust

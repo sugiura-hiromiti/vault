@@ -1,0 +1,1 @@
+[**[macOS] ライブラリをコード署名する (codesign)**](https://qiita.com/Arime/items/e1df2a8c3d4c2ce75069)

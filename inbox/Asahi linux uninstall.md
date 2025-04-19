@@ -1,0 +1,1 @@
+sudo curl -L https://github.com/AsahiLinux/asahi-installer/raw/main/tools/wipe-linux.sh | sh
