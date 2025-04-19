@@ -1,9 +1,9 @@
 ---
-id: <% tp.file.creation_date("YYYYMMDDTHHmmssSS") %>
+id: <% tp.file.creation_date() %>
 aliases: []
 tags: []
-created: <% tp.file_creation_date("YYMMDDTHH:mm") %>
-updated: <% tp.file.creation_date("YYMMDDTHH:mm") %>
+created: <% tp.file_creation_date() %>
+updated: <% tp.file.last_modified_date() %>
 ---
 
 #
