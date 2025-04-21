@@ -1,6 +1,6 @@
 ---
 created: 241222 21:50:05
-updated: 250419 20:07:27
+updated: 250421 20:47:10
 tags:
   - idea
   - tech
@@ -9,7 +9,7 @@ aliases:
   - MyStRoNgEsTlAnG
 id: applenote13
 ---
-
+[[関数は前置記法]]
 型はメタ情報を格納するという発想に基づく
 全ての型はLang型を実装
 言語のコアとなる型は2つ。DataとOP（Operator）

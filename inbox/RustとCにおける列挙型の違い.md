@@ -1,12 +1,12 @@
 ---
 id: 25042007560997
 aliases:
-  - decl_macro_params
+  - enum_diff_between_rust_and_c
 tags:
   - tech/rust/macro/decl
   - tech/rust/osdev
 created: 250420 07:56:09
-updated: 250420 08:14:52
+updated: 250421 20:34:33
 ---
 
 # RustとCにおける列挙型の違い
