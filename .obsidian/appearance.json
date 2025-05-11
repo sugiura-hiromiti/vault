@@ -1,0 +1,12 @@
+{
+  "showViewHeader": false,
+  "translucency": false,
+  "baseFontSize": 18,
+  "interfaceFontFamily": "MesloLGL Nerd Font",
+  "textFontFamily": "MesloLGL Nerd Font",
+  "monospaceFontFamily": "MesloLGL Nerd Font",
+  "showRibbon": false,
+  "nativeMenus": true,
+  "cssTheme": "",
+  "accentColor": ""
+}
