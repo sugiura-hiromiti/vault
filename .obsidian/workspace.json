@@ -11,10 +11,24 @@
             "id": "9b4bd381700b41ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "zenn/articles/06876ecdf8d1de.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "06876ecdf8d1de"
             }
           }
         ]
@@ -27,10 +41,24 @@
             "id": "6dd44714c5a8a957",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "zenn/articles/0e668632b1cef5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0e668632b1cef5"
             }
           }
         ]
@@ -45,7 +73,21 @@
       {
         "id": "845be73537c944ae",
         "type": "tabs",
+        "dimension": 84.26008968609865,
         "children": [
+          {
+            "id": "f3df01dea2dd27bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
           {
             "id": "9516e5f627f7ed53",
             "type": "leaf",
@@ -67,19 +109,6 @@
             }
           },
           {
-            "id": "f3df01dea2dd27bb",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "99e4b1653e98d929",
             "type": "leaf",
             "state": {
@@ -95,7 +124,14 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9a371e177f818a89",
+        "type": "tabs",
+        "dimension": 15.739910313901346,
+        "children": [
           {
             "id": "02ce0d214656be1e",
             "type": "leaf",
@@ -106,12 +142,11 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 1136.5
+    "width": 1184.5
   },
   "right": {
     "id": "59947b9fd619fcf0",
@@ -234,15 +269,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ec290c3d51167ac7",
+  "active": "9b4bd381700b41ca",
   "lastOpenFiles": [
-    "template/frontmatter.md",
     "daily/250513.md",
     "inbox/関数とマクロの違い.md",
     "zenn/articles/ce022b7625bd13.md",
     "zenn/articles/0e668632b1cef5.md",
     "inbox/guidのメモリレイアウト.md",
     "zenn/articles/06a0dd84110d05.md",
+    "template/frontmatter.md",
     "zenn/articles/7b1f96d117e1f8.md",
     "zenn/articles/8c2ea1aefd00e5.md",
     "zenn/articles/9d4b0843a408d3.md",
