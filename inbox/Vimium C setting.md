@@ -1,6 +1,6 @@
 ---
 created: 240805 17:34:03
-updated: 250419 20:01:51
+updated: 250514 20:37:28
 aliases:
   - vimium_c
 id: applenote10
@@ -28,8 +28,8 @@ map d duplicateTab
 map x removeTab goto="previous"
 map v enterVisualMode
 
-map OO Vomnibar.activate
-map oo Vomnibar.activateInNewTab
+map o Vomnibar.activate
+map O Vomnibar.activateInNewTab
 map b Vomnibar.activateBookmarks
 map B Vomnibar.activateBookmarksInNewTab
 map T Vomnibar.activateTabs

@@ -4,64 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "aae44e863c7dda5a",
-        "type": "tabs",
+        "id": "6a2692a1774ea258",
+        "type": "split",
         "children": [
           {
-            "id": "9b4bd381700b41ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zenn/articles/06876ecdf8d1de.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "aae44e863c7dda5a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9b4bd381700b41ca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/Vimium C setting.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vimium C setting"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "06876ecdf8d1de"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cc70eb5a130acbb5",
-        "type": "tabs",
-        "children": [
+              }
+            ]
+          },
           {
-            "id": "6dd44714c5a8a957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zenn/articles/0e668632b1cef5.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "04b2ac6b01e19239",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6dd44714c5a8a957",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "zenn/articles/0e668632b1cef5.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "0e668632b1cef5"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "0e668632b1cef5"
-            }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -114,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "firefox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +132,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "9a371e177f818a89",
@@ -146,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1184.5
+    "width": 1064.5
   },
   "right": {
     "id": "59947b9fd619fcf0",
@@ -271,6 +279,8 @@
   },
   "active": "9b4bd381700b41ca",
   "lastOpenFiles": [
+    "zenn/articles/06876ecdf8d1de.md",
+    "zenn/node_modules/zenn-cli/README.md",
     "daily/250513.md",
     "inbox/関数とマクロの違い.md",
     "zenn/articles/ce022b7625bd13.md",
@@ -285,7 +295,6 @@
     "zenn/articles/833d85b29ef612.md",
     "zenn/articles/01469ecbd1a5ac.md",
     "zenn/articles/2747e7cb35684c.md",
-    "zenn/articles/06876ecdf8d1de.md",
     "zenn/articles/8614e846cf8ed6.md",
     "zenn/articles/8997d1ed839da1.md",
     "zenn/articles/541305e4129958.md",
@@ -296,7 +305,6 @@
     "zenn/articles/de9cb129e9a477.md",
     "zenn/articles/de8dd526aabd21.md",
     "zenn/articles/dc35e30410104f.md",
-    "zenn/articles/6b584f0278a4ef.md",
     "zenn/articles/ce022b7625bd13.md~",
     "zenn/package-lock.json",
     "zenn/node_modules/zenn-cli/dist/server/zenn.js.LICENSE.txt",
