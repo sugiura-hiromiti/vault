@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "9a371e177f818a89",
@@ -279,8 +279,10 @@
   },
   "active": "9b4bd381700b41ca",
   "lastOpenFiles": [
-    "zenn/articles/06876ecdf8d1de.md",
+    "conflict-files-obsidian-git.md",
+    "inbox/Vimium C setting.md",
     "zenn/node_modules/zenn-cli/README.md",
+    "zenn/articles/06876ecdf8d1de.md",
     "daily/250513.md",
     "inbox/関数とマクロの違い.md",
     "zenn/articles/ce022b7625bd13.md",
@@ -303,8 +305,6 @@
     "zenn/articles/cd18be11da9115.md",
     "zenn/articles/d105d81a41d028.md",
     "zenn/articles/de9cb129e9a477.md",
-    "zenn/articles/de8dd526aabd21.md",
-    "zenn/articles/dc35e30410104f.md",
     "zenn/articles/ce022b7625bd13.md~",
     "zenn/package-lock.json",
     "zenn/node_modules/zenn-cli/dist/server/zenn.js.LICENSE.txt",
