@@ -34,33 +34,8 @@
                   "icon": "lucide-file",
                   "title": "Vimium C setting"
                 }
-              },
-              {
-                "id": "1b467f1f46c83283",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "conflict-files-obsidian-git.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "conflict-files-obsidian-git"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "04b2ac6b01e19239",
@@ -302,10 +277,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1b467f1f46c83283",
+  "active": "9b4bd381700b41ca",
   "lastOpenFiles": [
-    "inbox/Vimium C setting.md",
     "conflict-files-obsidian-git.md",
+    "inbox/Vimium C setting.md",
     "inbox/集合知のAI.md",
     "inbox/手続き型言語と非同期処理.md",
     "zenn/node_modules/zenn-cli/README.md",
