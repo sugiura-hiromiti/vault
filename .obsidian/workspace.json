@@ -34,8 +34,33 @@
                   "icon": "lucide-file",
                   "title": "Vimium C setting"
                 }
+              },
+              {
+                "id": "1b467f1f46c83283",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "conflict-files-obsidian-git.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "conflict-files-obsidian-git"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "04b2ac6b01e19239",
@@ -277,10 +302,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9b4bd381700b41ca",
+  "active": "1b467f1f46c83283",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "inbox/Vimium C setting.md",
+    "conflict-files-obsidian-git.md",
+    "inbox/集合知のAI.md",
+    "inbox/手続き型言語と非同期処理.md",
     "zenn/node_modules/zenn-cli/README.md",
     "zenn/articles/06876ecdf8d1de.md",
     "daily/250513.md",
@@ -303,8 +330,6 @@
     "zenn/articles/bd7559719e691d.md",
     "zenn/articles/c3d9bc9c536f35.md",
     "zenn/articles/cd18be11da9115.md",
-    "zenn/articles/d105d81a41d028.md",
-    "zenn/articles/de9cb129e9a477.md",
     "zenn/articles/ce022b7625bd13.md~",
     "zenn/package-lock.json",
     "zenn/node_modules/zenn-cli/dist/server/zenn.js.LICENSE.txt",

@@ -1,12 +1,13 @@
 ---
 created: 241222 21:50:05
-updated: 250421 20:47:10
+updated: 250517 11:13:16
 tags:
   - idea
   - tech
   - programming_language
 aliases:
   - MyStRoNgEsTlAnG
+  - the best language
 id: applenote13
 ---
 [[関数は前置記法]]
@@ -33,3 +34,5 @@ id: applenote13
 Function -> context pre defined block
 
 コミュニティの大きさに対してスケーラブルな言語使用であれば、コミュニティのパワーを無駄にしない
+
+組み込み型はenum(整数型等), functionality(正規表現、コードブロックなど), group(構造体など)のみ
