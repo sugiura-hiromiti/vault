@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d8c35901e4d5562b",
+        "id": "6a2692a1774ea258",
         "type": "split",
         "children": [
           {
@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "c7f69b42cbaeac4e",
+                "id": "9b4bd381700b41ca",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "inbox/回文回.md",
+                    "file": "inbox/Vimium C setting.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -32,13 +32,13 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "回文回"
+                  "title": "Vimium C setting"
                 }
               }
             ]
           },
           {
-            "id": "d5b4f32aba29d534",
+            "id": "04b2ac6b01e19239",
             "type": "tabs",
             "children": [
               {
@@ -47,7 +47,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "inbox/集合知のAI.md",
+                    "file": "zenn/articles/0e668632b1cef5.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -62,7 +62,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "集合知のAI"
+                  "title": "0e668632b1cef5"
                 }
               }
             ]
@@ -80,7 +80,21 @@
       {
         "id": "845be73537c944ae",
         "type": "tabs",
+        "dimension": 84.26008968609865,
         "children": [
+          {
+            "id": "f3df01dea2dd27bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
           {
             "id": "9516e5f627f7ed53",
             "type": "leaf",
@@ -102,25 +116,12 @@
             }
           },
           {
-            "id": "f3df01dea2dd27bb",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "99e4b1653e98d929",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "firefox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +131,15 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "9a371e177f818a89",
+        "type": "tabs",
+        "dimension": 15.739910313901346,
+        "children": [
           {
             "id": "02ce0d214656be1e",
             "type": "leaf",
@@ -141,12 +150,11 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 735.5
+    "width": 1064.5
   },
   "right": {
     "id": "59947b9fd619fcf0",
@@ -238,10 +246,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "inbox/ぼくのかんがえたさいきょうのげんご(Lang).md"
+                "file": "template/frontmatter.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for ぼくのかんがえたさいきょうのげんご(Lang)"
+              "title": "File properties for frontmatter"
             }
           }
         ],
@@ -269,19 +277,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ec290c3d51167ac7",
+  "active": "9b4bd381700b41ca",
   "lastOpenFiles": [
-    "inbox/集合知のAI.md",
     "inbox/回文回.md",
-    "template/frontmatter.md",
-    "inbox/ぼくのかんがえたさいきょうのげんご(Lang).md",
+    "conflict-files-obsidian-git.md",
+    "inbox/Vimium C setting.md",
+    "inbox/集合知のAI.md",
     "inbox/手続き型言語と非同期処理.md",
+    "zenn/node_modules/zenn-cli/README.md",
+    "zenn/articles/06876ecdf8d1de.md",
     "daily/250513.md",
     "inbox/関数とマクロの違い.md",
     "zenn/articles/ce022b7625bd13.md",
     "zenn/articles/0e668632b1cef5.md",
     "inbox/guidのメモリレイアウト.md",
     "zenn/articles/06a0dd84110d05.md",
+    "template/frontmatter.md",
     "zenn/articles/7b1f96d117e1f8.md",
     "zenn/articles/8c2ea1aefd00e5.md",
     "zenn/articles/9d4b0843a408d3.md",
@@ -289,14 +300,11 @@
     "zenn/articles/833d85b29ef612.md",
     "zenn/articles/01469ecbd1a5ac.md",
     "zenn/articles/2747e7cb35684c.md",
-    "zenn/articles/06876ecdf8d1de.md",
     "zenn/articles/8614e846cf8ed6.md",
     "zenn/articles/8997d1ed839da1.md",
     "zenn/articles/541305e4129958.md",
     "zenn/articles/bd7559719e691d.md",
     "zenn/articles/c3d9bc9c536f35.md",
-    "zenn/articles/cd18be11da9115.md",
-    "zenn/articles/d105d81a41d028.md",
     "zenn/articles/ce022b7625bd13.md~",
     "zenn/package-lock.json",
     "zenn/node_modules/zenn-cli/dist/server/zenn.js.LICENSE.txt",
