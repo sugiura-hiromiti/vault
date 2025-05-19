@@ -30,10 +30,10 @@
     "inbox/mac tips.md": "b1e60c8058ad6adae1752983bab6cc01d2fb4a56644512b01675122162bcc6e9",
     "inbox/Raycast Quicklinks.md": "2a12401e4eb92383a8f6457725f55b15e027a3e10188ff3806956fb1a50d5de2",
     "inbox/SQL logical order of operations.md": "ff923aea896046007586a6a9e39b8d458ad09af61d02f3fe3b94bea37ad1456c",
-    "inbox/Vimium C setting.md": "f4fcd36e31f7b68d401486c038c6155e96fd93dfc7bb2b73168d7fd69472b9c4",
+    "inbox/Vimium C setting.md": "1ebce35fad5467f65345e6e22871865a90e33117970fa2364bf7adf473b6cd3c",
     "inbox/コンテンツの内容のレベルを偏差値で出してくれるAI.md": "ed9892ba846cb9454ce0e49d92f14ed91f6cf87d6ca9b8733db723c80c70ef7d",
     "inbox/プロジェクトマネージャーアプリ開発.md": "76551632b0aebf9ae7b9ea0329cd3352dfee5b6fdba4ac86cc55d8605c72e8bf",
-    "inbox/ぼくのかんがえたさいきょうのげんご(Lang).md": "db82762bdde5859a9dfc89246d1dabbb0ac59657b7a445e40de69d07f79e1a43",
+    "inbox/ぼくのかんがえたさいきょうのげんご(Lang).md": "2ff520725b756df9d3cdd38bbaa9f7b6afa5e34c7d0e3f8566e61494a6c3e251",
     "inbox/乱数の結果を予想するAIai.md": "a33015b017ac5e756e276217e80d05bf1abe550e674cd1621ab1aa8e51544285",
     "inbox/地球内部を突き抜けるネットワークが有ればおもろい.md": "65d94735aee3d80f934ee3c88ff9c54696a055609afbb4e24e8a82535b34c9cb",
     "inbox/脳時間帯.md": "7a5bf2079b53bbf4bab724447ca6d45a70d6d65438b71e3ef0749d9ee1b5bd9c",
@@ -42,7 +42,7 @@
     "inbox/ABIって結局なんなん？.md": "532eb1e63ebeb74c81af60b7ec3062e32268b8a1faa04f61bd1255392320b56d",
     "inbox/RustとCにおける列挙型の違い.md": "bd29220167662b2373b4388e6a938cc78d8d536df8f04b6c10316a9bf79462b1",
     "inbox/関数は前置記法.md": "abb22afdfd867a774b07c83247a3f852101b000645170eed516d9df0b943b925",
-    "daily/250423.md": "6a540b5e289a237ff9b0f29af1e82ddd44cc57c20fb9d22f03aa1554a483c4b5",
+    "daily/250423.md": "73fa4eee7fc6164adfd4c48323d9dd8594163af86440117a24ec1a2f4807d443",
     "inbox/関数とマクロの違い.md": "507145c0d5d6e09118aaccb37b61078e2935319e9d54921669ecfb234f95808d",
     "inbox/最適化と関数のマクロ化.md": "9acc98d09f9252e800f09bbc737d99996b026a723e43a04d7e3994eb1c07260c",
     "inbox/tailwind cssってなんで楽しいんだろう.md": "d3e5ab98b647a4bcc3b1b3f66a4fc26636ff977b5ff067fb16990e6b14c64581",
@@ -76,9 +76,9 @@
     "zenn/articles/ce022b7625bd13.md": "bbebb0c16d1fb99704d5852d7c4320ea87d7078fe3a1f0ba34b3fec47bd5146a",
     "inbox/guidのメモリレイアウト.md": "d8c7976e3c401f827031e1554b4de46b9ad82f7d9d1efd1a274987e881344b2e",
     "zenn/articles/06a0dd84110d05.md": "ddc1a83dde066fcdb1a349aaddaf88cbd6fd5c6dd54dba2f220ac9bacf6e4b39",
-    "daily/250513.md": "f21b48fb8da4d60165790fa22ba6c3eaa97ef9445ac623da403ef8a0bdfd2ea0",
-    "inbox/手続き型言語と非同期処理.md": "bb3fe0a02af179ae64c3717045823f50bf16c07a0fa457dfda8bd0c7374d897f",
-    "inbox/集合知のAI.md": "bdc048e58f25056c8fc62526cd4c2feb6b17c3bc7081ea75087361f1a04777a0",
-    "inbox/回文回.md": "c08b1089ce389515c560f3f250e4b01588cbf3067c0fbe4d4d1c87c6be53b393"
+    "daily/250513.md": "08afe9f586f2ea0db776d5be022561ce2dae89bbc0b589842a7364780f26ef42",
+    "inbox/手続き型言語と非同期処理.md": "77d913c36709e845b8c78654ef4608eb24909b785ad82ead8e3136bc3ac988ca",
+    "inbox/集合知のAI.md": "277a12656bd045952dcf7197805a761e98a627cc460f263f324e9f295583dc71",
+    "inbox/回文回.md": "63a022f42385a92d6803bb302402499673349b1fa76cc36b39061a16a3965617"
   }
 }
