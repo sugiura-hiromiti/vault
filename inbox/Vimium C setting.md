@@ -1,6 +1,6 @@
 ---
 created: 240805 17:34:03
-updated: 250519 12:00:05
+updated: 250519 13:28:40
 aliases:
   - vimium_c
 id: applenote10

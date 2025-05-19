@@ -15,10 +15,24 @@
                 "id": "c7f69b42cbaeac4e",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "inbox/回文回.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
                   "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "回文回"
                 }
               }
             ]
@@ -257,6 +271,7 @@
   },
   "active": "c7f69b42cbaeac4e",
   "lastOpenFiles": [
+    "inbox/回文回.md",
     "template/frontmatter.md",
     "inbox/ぼくのかんがえたさいきょうのげんご(Lang).md",
     "inbox/手続き型言語と非同期処理.md",
@@ -282,7 +297,6 @@
     "zenn/articles/c3d9bc9c536f35.md",
     "zenn/articles/cd18be11da9115.md",
     "zenn/articles/d105d81a41d028.md",
-    "zenn/articles/de9cb129e9a477.md",
     "zenn/articles/ce022b7625bd13.md~",
     "zenn/package-lock.json",
     "zenn/node_modules/zenn-cli/dist/server/zenn.js.LICENSE.txt",
