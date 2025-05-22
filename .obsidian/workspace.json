@@ -6,6 +6,7 @@
       {
         "id": "aae44e863c7dda5a",
         "type": "tabs",
+        "dimension": 51.78343949044586,
         "children": [
           {
             "id": "9b4bd381700b41ca",
@@ -36,6 +37,7 @@
       {
         "id": "ae58d654dec7e9be",
         "type": "tabs",
+        "dimension": 48.21656050955414,
         "children": [
           {
             "id": "6dd44714c5a8a957",
@@ -43,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zenn/articles/0e668632b1cef5.md",
+                "file": "inbox/回文回.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0e668632b1cef5"
+              "title": "回文回"
             }
           }
         ]
@@ -147,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 776.5
+    "width": 734.5
   },
   "right": {
     "id": "59947b9fd619fcf0",
@@ -270,11 +272,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9b4bd381700b41ca",
+  "active": "6dd44714c5a8a957",
   "lastOpenFiles": [
+    "zenn/articles/0e668632b1cef5.md",
+    "inbox/Vimium C setting.md",
     "inbox/回文回.md",
     "conflict-files-obsidian-git.md",
-    "inbox/Vimium C setting.md",
     "inbox/集合知のAI.md",
     "inbox/手続き型言語と非同期処理.md",
     "zenn/node_modules/zenn-cli/README.md",
@@ -282,7 +285,6 @@
     "daily/250513.md",
     "inbox/関数とマクロの違い.md",
     "zenn/articles/ce022b7625bd13.md",
-    "zenn/articles/0e668632b1cef5.md",
     "inbox/guidのメモリレイアウト.md",
     "zenn/articles/06a0dd84110d05.md",
     "template/frontmatter.md",
