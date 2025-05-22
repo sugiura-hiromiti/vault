@@ -4,21 +4,27 @@ aliases:
 tags:
   - index
 created: 250522 12:26:53
-updated: 250522 13:03:48
+updated: 250522 16:54:51
 ---
 # bookmark
 
 ```dataviewjs
 dv.table(
-	["link", "tags"],
+	["link", "tags", "file"],
 	dv.pages('#clippings').filter(p => {
 		const st = p.file.frontmatter.status;
 		return st === "bm";
-	}).map(p => 
-		[
-			dv.fileLink(p.file.path, false, p.file.frontmatter.title),
-			p.file.frontmatter.tags
-		]
+	}).map(p => {
+		const title = p.file.frontmatter.title;
+		const source = p.file.frontmatter.source;
+		const link = `[${title}](${source})`;
+		return [
+			link,
+			p.file.frontmatter.tags,
+			dv.fileLink(p.file.path, false, p.file.path),
+		];
+
+		}
 	)
 )
 ```

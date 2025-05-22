@@ -82,7 +82,7 @@
     "inbox/回文回.md": "83ae74698b3fe8f53cfc10ff917102e285a9ceb0647c10e87442b81036a9249e",
     "inbox/__new.md": "ed23b4ee1fbf14e6089b5b24965d5aa1b059632df11da38336e455329ffbb453",
     "inbox/【最新技術に振り回されない】 低レイヤーに強くなるための鉄板コンテンツ集.md": "de0bf8515eb07b71981eb617ef43075b8392cc7e22a694c65edaa75bec246aa8",
-    "inbox/internet.md": "3765bd606c28e3226a7320985983fb2dfece2166d75fd0946849c1f93a81c1ba",
+    "inbox/internet.md": "c836403258126299e9e1b980c756c0524c24be06fa70ef6152b3cb91e0cb99c1",
     "inbox/オンボーディング.md": "90d662d0e6a12a4e89646101a1a3b98602d2f069370c6a14bf2c7a2d8f8577c1",
     "inbox/MBO_杉浦 寛行さん.md": "f8ebf478a6a5e85bbf6b86e252441b5a1f9b244aae38b55571c243b3a516e62f",
     "inbox/Arm64(ARMv8) Assembly Programming (00).md": "0e6b9c9b97203c754da737d0376538641bcbb8e3598309e26e711aa0c07a088b",
@@ -124,6 +124,7 @@
     "inbox/mm0311 ダッシュボード  Backlog.md": "9e84f2e92b9a9afbef1daaba8910265ec0a62ba98a0c9ccee7549db75e06207c",
     "inbox/Ray Tracing in One Weekend.md": "2da49c384eab8970a58b65d6db5d9efa5781757b9a4b363bac5ae45e0fa6d2bd",
     "inbox/Rustでコンテナを実装してみる(超シンプル編）  DevelopersIO.md": "ff36a747001b3fd939f5148649112de823f271f8220c78ac19c3e7c6168b33c0",
-    "inbox/Preface - Build a Lua Interpreter in Rust.md": "e90124182b2a4b8512c252e441bfc358f9c7ceee2068188e7c4ad3339a9bacb3"
+    "inbox/Preface - Build a Lua Interpreter in Rust.md": "e90124182b2a4b8512c252e441bfc358f9c7ceee2068188e7c4ad3339a9bacb3",
+    "inbox/AI documentation you can talk to, for every repo.md": "668c33aae1e1b9fcf0edf1c87a64891944f80e0c4eff57857b0c09123f5fc6ec"
   }
 }
