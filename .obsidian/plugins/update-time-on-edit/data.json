@@ -93,6 +93,9 @@
     "inbox/RISC-V OSを作ろう (1) ～ブート処理  技術文書  技術情報.md": "97c9c161038bd1c1290d36004599891f41182c5bf66f9c3b49573f3844668ad7",
     "inbox/「型システム入門」第4章の実装をRustでやってみた.md": "50e03c233a23453923196693664af5c833b41107737149829d01d18d08acbbce",
     "inbox/フルスクラッチから作って理解するQEMU (Rust編).md": "951e45984bb59983118c76105825b459936a106a1427246e59bd4081934e61be",
-    "inbox/linux kernel development.md": "0898fa32c58a7385d1737ec9bd5b08d81311068e32d689ab2096ca3ea73e2c60"
+    "inbox/linux kernel development.md": "0898fa32c58a7385d1737ec9bd5b08d81311068e32d689ab2096ca3ea73e2c60",
+    "inbox/learning assembly language from the ffmpeg crew - Google 検索.md": "e7fcd06adf0497bfcfdfc1c5fe376ba70b961e9ffe831fa1dfa7048d96824aea",
+    "inbox/how to write a code formatter - Google 検索.md": "55b5794f44c4a56afe3625ae2d49e22b500c9cc879419c2814b98e4e7e4b7b4b",
+    "inbox/The Art of Formatting Code · mcyoung.md": "0b902dce95d091bc290999f387f3c10f9780a492a41c123282da63a806671cdb"
   }
 }

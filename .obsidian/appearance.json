@@ -8,5 +8,6 @@
   "showRibbon": false,
   "nativeMenus": true,
   "cssTheme": "Catppuccin",
-  "accentColor": ""
+  "accentColor": "#510fcc",
+  "theme": "system"
 }
