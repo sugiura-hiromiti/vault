@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250522 19:34:58
+updated: 250523 08:55:53
 ---
 `async/await` support has been a long time coming in the [atsamd-hal](https://github.com/atsamd-rs/atsamd) project. Some time around 2020, I discovered [embassy](https://github.com/embassy-rs/embassy), a comprehensive framework that exploits asynchronous programming on a wide range of microcontrollers. It immediately appealed to me; to my brain, it made complete sense to harness cooperative multitasking on small, single-core systems. It enables you to write seemingly linear and straightforward code, without needing to manually deal with complex finite states machines, and without the drawbacks of threading on a more "traditional" RTOS. Having been involved with atsamd-hal for some time at that point, I started thinking about how we could support async programming in the HAL.
 

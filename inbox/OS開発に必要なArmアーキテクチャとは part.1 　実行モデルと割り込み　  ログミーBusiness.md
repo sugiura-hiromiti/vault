@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250522 19:45:32
+updated: 250523 08:55:54
 ---
 [ARM入門勉強会](https://logmi.jp/events/detail/2418)
 

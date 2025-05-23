@@ -10,7 +10,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250522 19:34:58
+updated: 250523 08:55:53
 ---
 If you read Japanese, you might have seen the book “ *Design and Implementation of Microkernels* ” by \[Seiya Nuda\]. An appendix covers how to write your own operating system for RISC-V in about 1,000 lines of code. Don’t speak Japanese? An [English version](https://operating-system-in-1000-lines.vercel.app/en) is available free on the Web and on [GitHub](https://github.com/nuta/operating-system-in-1000-lines).
 

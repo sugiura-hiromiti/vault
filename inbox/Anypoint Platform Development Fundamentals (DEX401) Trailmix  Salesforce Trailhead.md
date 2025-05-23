@@ -10,7 +10,7 @@ tags:
   - clippings
 status: bm
 aliases: 
-updated: 250522 19:34:58
+updated: 250523 08:55:52
 ---
 A new Salesforce certification experience is coming July 21st. Discover how exams will be delivered in Pearson VUE, what it means for you, and ways to prepare. [Learn more](https://trailhead.salesforce.com/en/help?article=New-Salesforce-Certification-Experience-FAQ).
 
