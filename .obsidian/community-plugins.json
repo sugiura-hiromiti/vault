@@ -2,8 +2,8 @@
   "templater-obsidian",
   "update-time-on-edit",
   "obsidian-git",
-  "google-calendar",
   "dataview",
   "obsidian-tasks-plugin",
-  "omnisearch"
+  "omnisearch",
+  "execute-code"
 ]
