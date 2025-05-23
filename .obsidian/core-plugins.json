@@ -2,7 +2,7 @@
   "file-explorer": false,
   "global-search": true,
   "switcher": false,
-  "graph": false,
+  "graph": true,
   "backlink": true,
   "canvas": false,
   "outgoing-link": true,
