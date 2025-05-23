@@ -6,13 +6,19 @@ tags:
   - mac
   - window_manager
 created: 250523 08:57:37
+<<<<<<< HEAD
 updated: 250523 09:37:53
+=======
+updated: 250523 09:35:13
+>>>>>>> origin/main
 ---
 長らくmacOSでのwmはyabai+skhdを使っていたが細かい点でより自分に合っていそうなAerospaceに移行しようと思う
-これはその記録である
+これはそのメモである
 
 # Yabai+SkhdとAerospaceの違い
 
 移行１日目でまず感じた違いは、何を提供するかの思想である
-yabaiは枠組み・機能を提供されている感じがする
-一方aerospaceはルールを提供されていると感じる
+yabaiは**枠組み・機能**を提供されている感じがする
+一方aerospaceは**ルール**を提供されていると感じる
+
+workspace/spaceの扱い方が若干違うので慣れないが、良い落とし所の設定を見つけたい
