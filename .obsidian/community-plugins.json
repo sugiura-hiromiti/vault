@@ -5,5 +5,10 @@
   "dataview",
   "obsidian-tasks-plugin",
   "omnisearch",
-  "execute-code"
+  "execute-code",
+  "new-tab-plus",
+  "obsidian-reading-time",
+  "obsidian-icon-folder",
+  "colored-tags",
+  "tag-wrangler"
 ]

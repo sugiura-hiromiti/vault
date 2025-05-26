@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250523 08:55:53
+updated: 250526 10:04:46
 ---
 Every modern programming language needs a *formatter* to make your code look pretty and consistent. Formatters are source-transformation tools that parse source code and re-print the resulting AST in some canonical form that normalizes whitespace and optional syntactic constructs. They remove the tedium of matching indentation and brace placement to match a style guide.
 

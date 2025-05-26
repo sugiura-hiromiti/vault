@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250523 08:55:53
+updated: 250526 10:04:46
 ---
 I'm excited to announce the release of of the [`cgp`](https://docs.rs/cgp/0.4.0/cgp/) crate. This update includes significantly improved developer experience, improved debuggability, and many more new features!
 
