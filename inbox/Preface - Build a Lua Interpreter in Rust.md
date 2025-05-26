@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250523 12:08:18
+updated: 250527 08:59:54
 ---
 > This series was [written in Chinese](https://wubingzheng.github.io/build-lua-in-rust/zh/) originally. This Engine version is mainly translated by [Google Translate](https://translate.google.com/). So please forgive me for the terrible writing.
 
