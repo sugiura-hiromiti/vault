@@ -2,13 +2,9 @@
   "templater-obsidian",
   "update-time-on-edit",
   "obsidian-git",
+  "google-calendar",
   "dataview",
   "obsidian-tasks-plugin",
   "omnisearch",
-  "execute-code",
-  "new-tab-plus",
-  "obsidian-reading-time",
-  "obsidian-icon-folder",
-  "colored-tags",
-  "tag-wrangler"
+  "edit-in-neovim"
 ]

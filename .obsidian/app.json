@@ -11,6 +11,5 @@
   "spellcheck": false,
   "tabSize": 3,
   "promptDelete": false,
-  "strictLineBreaks": true,
-  "vimMode": true
+  "strictLineBreaks": true
 }

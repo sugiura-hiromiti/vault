@@ -1,6 +1,6 @@
 ---
 created: 241222 21:50:05
-updated: 250526 10:04:46
+updated: 250523 12:08:22
 tags:
   - idea
   - tech
