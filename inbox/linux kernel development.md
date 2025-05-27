@@ -5,7 +5,7 @@ tags:
   - clippings
   - linux
 created: 250522 13:55:41
-updated: 250527 17:34:07
+updated: 250528 08:54:43
 title: linux kernel development
 source: https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Linux/Linux%20Kernel%20Development,%203rd%20Edition.pdf
 status: unread

@@ -10,7 +10,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250527 17:34:07
+updated: 250528 08:54:43
 ---
 More than 1 year has passed since last update.
 
