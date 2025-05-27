@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/daily noteで迷子にならない.md",
+                "file": "inbox/obsidianのdaily noteが受け入れ難い.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daily noteで迷子にならない"
+              "title": "obsidianのdaily noteが受け入れ難い"
             }
           }
         ],
@@ -195,9 +195,10 @@
   },
   "active": "2a8226070061461a",
   "lastOpenFiles": [
+    "inbox/daily noteで迷子にならない.md",
+    "inbox/obsidianのdaily noteが受け入れ難い.md",
     "inbox/internet.md",
     "inbox/遅延評価と非同期.md",
-    "inbox/daily noteで迷子にならない.md",
     "inbox/Untitled 2.md",
     "daily/250527.md",
     "/inbox/集合知のAI.md",
@@ -220,7 +221,6 @@
     "/inbox/internet.md",
     "/inbox/how to write a code formatter - Google 検索.md",
     "/inbox/e-就業OasiS.md",
-    "/inbox/daily noteで迷子にならない.md",
     "/inbox",
     "/zenn",
     "/daily",
