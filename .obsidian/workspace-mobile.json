@@ -183,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
