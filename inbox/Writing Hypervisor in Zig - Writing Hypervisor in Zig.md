@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250527 08:59:54
+updated: 250527 17:34:07
 ---
 ![Ymir](https://hv.smallkirby.com/assets/ymir.png) *Ymir, the Type-1 Baremetal Hypervisor*  
 

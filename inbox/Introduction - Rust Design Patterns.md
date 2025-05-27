@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250527 08:59:54
+updated: 250527 17:34:05
 ---
 If you are interested in contributing to this book, check out the [contribution guidelines](https://github.com/rust-unofficial/patterns/blob/master/CONTRIBUTING.md).
 

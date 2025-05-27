@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "9ed0814f78b00fca",
+            "id": "2a8226070061461a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/250527.md",
+                "file": "inbox/daily noteで迷子にならない.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250527"
+              "title": "daily noteで迷子にならない"
             }
           }
         ],
@@ -73,7 +73,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "daily note",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -192,13 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ed0814f78b00fca",
+  "active": "2a8226070061461a",
   "lastOpenFiles": [
-    "daily/250527.md",
     "inbox/internet.md",
-    "inbox/aerospace移行.md",
-    "daily/250523.md",
+    "inbox/遅延評価と非同期.md",
+    "inbox/daily noteで迷子にならない.md",
+    "inbox/Untitled 2.md",
+    "daily/250527.md",
     "/inbox/集合知のAI.md",
+    "/inbox/遅延評価と非同期.md",
     "/inbox/車輪の再発明のススメ！車輪を1から自作できる教材まとめ.md",
     "/inbox/手続き型言語と非同期処理.md",
     "/inbox/回文回.md",
@@ -217,12 +219,10 @@
     "/inbox/internet.md",
     "/inbox/how to write a code formatter - Google 検索.md",
     "/inbox/e-就業OasiS.md",
-    "/inbox/aerospace移行.md",
-    "/inbox/__new.md",
-    "/inbox/Writing Hypervisor in Zig - Writing Hypervisor in Zig.md",
+    "/inbox/daily noteで迷子にならない.md",
     "/inbox",
-    "/daily",
     "/zenn",
+    "/daily",
     "template",
     "zenn",
     "inbox",
