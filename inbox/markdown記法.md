@@ -3,7 +3,7 @@ id: 25052811401906
 aliases: []
 tags: []
 created: 250528 11:40:19
-updated: 250528 11:59:15
+updated: 250528 13:01:12
 ---
 **callout記法**
 
@@ -19,4 +19,16 @@ abc
 >[!Check]-
 
 >[!Help]-
+
+>[!Caution]-
+
+>[!Fail]-
+
+>[!Danger]-
+
+>[!Bug]-
+
+>[!Example]-
+
+>[!Quote]-
 
