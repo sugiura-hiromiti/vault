@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250528 08:54:43
+updated: 250528 20:33:07
 ---
 > Got any issues or want to check out all the final code at once?[Everything's on Github!](https://github.com/rust-unofficial/too-many-lists)
 

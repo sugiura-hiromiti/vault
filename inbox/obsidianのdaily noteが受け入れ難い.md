@@ -3,7 +3,7 @@ id: 25052808030071
 aliases: []
 tags: []
 created: 250528 08:03:00
-updated: 250528 13:15:44
+updated: 250528 20:33:08
 ---
 
 最近Obsidian を使っています

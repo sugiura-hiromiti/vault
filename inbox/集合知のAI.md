@@ -5,7 +5,7 @@ aliases:
 tags:
   - idea
 created: 250516 11:58:29
-updated: 250528 08:54:43
+updated: 250528 20:33:07
 ---
 PKM(personal knowledge management)ではなくOKM(organization knowledge management)を作るのは面白そう
 以下idea
