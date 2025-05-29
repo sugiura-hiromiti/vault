@@ -4,7 +4,7 @@ aliases:
 tags:
   - index
 created: 250522 12:26:53
-updated: 250529 10:22:42
+updated: 250530 08:50:42
 ---
 # bookmark
 
