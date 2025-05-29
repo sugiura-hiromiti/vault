@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250529 09:26:15
+updated: 250529 10:22:42
 ---
 - 2048 Words
 - 10 Minute read
