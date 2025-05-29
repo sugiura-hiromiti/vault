@@ -3,15 +3,16 @@ id: 25052716385026
 aliases:
   - my rule for daily note
   - guide to satisfy with daily note
+  - daily note
 tags:
   - obsidian
   - idea
 created: 250527 16:38:50
-updated: 250529 09:26:15
+updated: 250529 10:42:42
 ---
 
 - 朝の喫煙中に日記を書く
-- daily noteは１ファイルに特定の目的を持たせるという（自分にとっては）自然な思考と対立する
+- [[obsidianのdaily noteが受け入れ難い|daily note]]は１ファイルに特定の目的を持たせるという（自分にとっては）自然な思考と対立する
 	- しかしそれによって、無目的な文章・目的を後から挿入したい文章が書きやすくなる[^1]
 
 
