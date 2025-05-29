@@ -6,7 +6,7 @@ tags:
   - mac
   - window_manager
 created: 250523 08:57:37
-updated: 250529 08:54:06
+updated: 250529 09:00:28
 ---
 長らくmacOSでのwmはyabai+skhdを使っていたが細かい点でより自分に合っていそうなAerospaceに移行しようと思う
 これはそのメモである

@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250529 08:54:06
+updated: 250529 09:00:28
 ---
 I read the excellent post [Optimizing a WebGPU Matmul Kernel for 1TFLOP+ Performance](https://www.nuss-and-bolts.com/p/optimizing-a-webgpu-matmul-kernel) by [Zach Nussbaum](https://x.com/zach_nussbaum) and thought it might be fun to reimplement it with [Rust GPU](https://rust-gpu.github.io/).
 

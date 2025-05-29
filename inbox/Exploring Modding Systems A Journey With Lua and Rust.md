@@ -10,7 +10,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250529 08:54:06
+updated: 250529 09:00:28
 ---
 [Sitemap](https://medium.com/sitemap/sitemap.xml)
 
