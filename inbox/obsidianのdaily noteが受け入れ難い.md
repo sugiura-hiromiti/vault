@@ -1,13 +1,16 @@
 ---
 id: 25052808030071
-aliases: []
-tags: []
+aliases:
+  - daily note
+tags:
+  - idea
+  - obsidian
 created: 250528 08:03:00
-updated: 250529 10:31:34
+updated: 250529 10:42:48
 ---
 
 最近Obsidian を使っています
-一言で言えば開発者から評判の良いノートアプリなんですが、そんなObsidianの一押し機能にdaily noteと言うのがあります
+一言で言えば開発者から評判の良いノートアプリなんですが、そんなObsidianの一押し機能に[[daily noteで迷子にならない|daily note]]と言うのがあります
 要は日記です
 
 このdaily note機能に対して初めはモヤっとした“受け入れ難さ”があったんですが、時間をかけて何となくその正体が掴めた気がするのでObsidian良いよ！の紹介も兼ねて共有します
