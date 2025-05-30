@@ -1,6 +1,6 @@
 ---
 created: 240805 17:34:03
-updated: 250530 20:34:53
+updated: 250530 20:34:57
 aliases:
   - vimium_c
 id: applenote10
@@ -8,7 +8,7 @@ id: applenote10
 #firefox 
 
 ```
-```
+
 unmapAll
 
 map f LinkHints.activate
