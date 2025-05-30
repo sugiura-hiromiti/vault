@@ -1,6 +1,6 @@
 ---
 created: 240805 17:34:03
-updated: 250530 20:34:57
+updated: 250530 20:35:20
 aliases:
   - vimium_c
 id: applenote10
@@ -8,7 +8,6 @@ id: applenote10
 #firefox 
 
 ```
-
 unmapAll
 
 map f LinkHints.activate
@@ -30,11 +29,11 @@ map d duplicateTab
 map x removeTab goto="previous"
 map v enterVisualMode
 
-map o Vomnibar.activate
-map O Vomnibar.activateInNewTab
-map b Vomnibar.activateBookmarks
-map B Vomnibar.activateBookmarksInNewTab
-map T Vomnibar.activateTabs
+# map o Vomnibar.activate
+# map O Vomnibar.activateInNewTab
+# map b Vomnibar.activateBookmarks
+# map B Vomnibar.activateBookmarksInNewTab
+# map T Vomnibar.activateTabs
 map / enterFindMode
 map H goBack
 map L goForward
@@ -44,3 +43,4 @@ map J joinTabs
 map < moveTabLeft
 map > moveTabRight
 map R toggleReaderMode
+```
