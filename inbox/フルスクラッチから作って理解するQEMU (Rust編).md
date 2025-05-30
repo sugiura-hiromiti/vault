@@ -10,7 +10,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250529 10:22:42
+updated: 250530 19:27:53
 ---
 2020年の後半は、趣味では [QEMU](http://d.hatena.ne.jp/keyword/QEMU) の勉強をしていた。 [QEMU](http://d.hatena.ne.jp/keyword/QEMU) は高速動作を売りとする [アーキテクチャ](http://d.hatena.ne.jp/keyword/%A5%A2%A1%BC%A5%AD%A5%C6%A5%AF%A5%C1%A5%E3) エミュレーションツールで、 [x86](http://d.hatena.ne.jp/keyword/x86) のみならず [RISC](http://d.hatena.ne.jp/keyword/RISC) -V、ARM、それ以外の様々な [アーキテクチャ](http://d.hatena.ne.jp/keyword/%A5%A2%A1%BC%A5%AD%A5%C6%A5%AF%A5%C1%A5%E3) のエミュレーションをサポートしているツールだ。 [Linux](http://d.hatena.ne.jp/keyword/Linux) のブートや組み込み分野を生業としているエンジニアならば、一度は触ったことがあるはずだ。
 

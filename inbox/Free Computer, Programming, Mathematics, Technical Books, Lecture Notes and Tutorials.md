@@ -9,7 +9,7 @@ tags:
   - clippings
 status: bm
 aliases: 
-updated: 250529 10:22:42
+updated: 250530 19:27:53
 ---
 Selected New Books
 

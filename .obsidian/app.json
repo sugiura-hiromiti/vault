@@ -12,5 +12,5 @@
   "tabSize": 3,
   "promptDelete": false,
   "strictLineBreaks": true,
-  "vimMode": true
+  "vimMode": false
 }
