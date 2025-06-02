@@ -3,7 +3,7 @@ id: 25052811401906
 aliases: []
 tags: []
 created: 250528 11:40:19
-updated: 250602 11:36:56
+updated: 250602 11:43:13
 ---
 # callout記法
 
@@ -45,4 +45,4 @@ abc
 - [l] location
 - [p] pros
 - [u] up
-- [w] wedding cake? (may be birth day) [completed:: true]
+- [w] wedding cake? (may be birth day)
