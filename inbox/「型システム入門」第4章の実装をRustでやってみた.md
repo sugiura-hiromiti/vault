@@ -10,7 +10,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250530 19:27:53
+updated: 250602 08:56:53
 ---
 [![型システム入門 プログラミング言語と型の理論](https://m.media-amazon.com/images/I/41lT4kD300L._SL500_.jpg "型システム入門 プログラミング言語と型の理論")](https://www.amazon.co.jp/dp/B07CBB69SS?tag=hatena-22&linkCode=ogi&th=1&psc=1)
 
