@@ -3,7 +3,7 @@ id: 25052811401906
 aliases: []
 tags: []
 created: 250528 11:40:19
-updated: 250602 11:01:30
+updated: 250602 11:12:06
 ---
 # callout記法
 
@@ -31,3 +31,18 @@ abc
 >[!Example]-
 
 >[!Quote]-
+
+# Obsidian拡張リスト表記
+
+- [?] question
+- [!] warning
+- [b] bookmark
+- [c] cons
+- [d] down
+- [f] fire
+- [i] info
+- [k] key
+- [l] location
+- [p] pros
+- [u] up
+- [w] wedding cake? (may be birth day)
