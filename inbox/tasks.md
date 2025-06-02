@@ -3,7 +3,7 @@ id: 25060207311435
 aliases: []
 tags: []
 created: 250602 07:31:14
-updated: 250602 11:32:22
+updated: 250602 11:44:29
 ---
 
 # tasks
@@ -19,7 +19,12 @@ dv.taskList(
 			return is_task && !task.completed;
 		})
 		*/
-		.filter(task => !task.completed)
+		.filter(task => {
+			let is_list = false;
+			const task_status = task.status;
+
+
+		})
 )
 ```
 
