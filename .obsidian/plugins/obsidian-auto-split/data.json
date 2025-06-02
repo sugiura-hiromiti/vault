@@ -1,6 +1,6 @@
 {
   "autoSplit": true,
-  "minSize": 1000,
+  "minSize": 500,
   "direction": "auto",
   "editorFirst": false,
   "paneToFocus": "source",
