@@ -3,7 +3,7 @@ id: 25060119373093
 aliases: []
 tags: []
 created: 250601 19:37:30
-updated: 250603 14:38:02
+updated: 250603 15:52:41
 ---
 - [ ] gpu driverの作成
 	- [ ] bootloaderでdevice treeを取得
