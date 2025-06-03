@@ -3,12 +3,13 @@ id: 25060119373093
 aliases: []
 tags: []
 created: 250601 19:37:30
-updated: 250602 11:57:46
+updated: 250603 14:38:02
 ---
 - [ ] gpu driverの作成
 	- [ ] bootloaderでdevice treeを取得
 		- [ ] system_table -> configuration tableを介して、GUIDを比較して取得
-	- [ ] PCI情報を走査して（PCI enumeration）を用いてvirtio-gpu-pciを探し出す
+			- [ ] configuration tableを取得する
+	- [ ] PCI情報を走査して（PCI enumeration）virtio-gpu-pciを探し出す
 	- [ ] MMIOを介してgpuを初期化
 	- [ ] FrameBufferの確保
 
