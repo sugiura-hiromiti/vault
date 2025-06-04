@@ -10,7 +10,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250604 20:02:55
+updated: 250605 08:46:33
 ---
 ![Build your own SQLite, Part 1: Listing tables](https://cdn.hashnode.com/res/hashnode/image/upload/v1721684395771/c0c06140-18f6-442d-a6da-f50eb28018de.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
 
