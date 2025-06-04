@@ -4,7 +4,7 @@ aliases:
 tags:
   - index
 created: 250602 07:31:14
-updated: 250604 20:02:55
+updated: 250604 20:10:59
 ---
 
 # tasks
@@ -12,14 +12,7 @@ updated: 250604 20:02:55
 ```dataviewjs
 dv.taskList(
 	dv.pages().file.tasks
-		/*
-		.filter(task => {
-			const tags = task.tags;
-			console.log(tags);
-			const is_task = tags.includes('#task');
-			return is_task && !task.completed;
-		})
-		*/
+		.filter(task => !task.not_task)
 		.filter(task => {
 			let is_list = false;
 			const task_status = task.status;
