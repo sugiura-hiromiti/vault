@@ -1,19 +1,27 @@
 {
-  "scanned": false,
-  "reminders": {},
+  "scanned": true,
+  "reminders": {
+    "daily/250604.md": [
+      {
+        "title": "win端末のgit repoを同期する",
+        "time": "2025-06-04 17:45",
+        "rowNumber": 30
+      }
+    ]
+  },
   "debug": false,
   "settings": {
-    "reminderTime": "09:00",
+    "reminderTime": "08:00",
     "reminderTimeStep": 15,
     "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
-    "useSystemNotification": false,
+    "useSystemNotification": true,
     "autoCompleteTrigger": "(@",
     "primaryReminderFormat": "ReminderPluginReminderFormat",
     "enableReminderPluginReminderFormat": true,
-    "dateFormat": "YYYY-MM-DD",
-    "dateTimeFormat": "YYYY-MM-DD HH:mm",
-    "strictDateFormat": false,
-    "linkDatesToDailyNotes": false,
+    "dateFormat": "YYMMDD",
+    "dateTimeFormat": "YYMMDD HHmm",
+    "strictDateFormat": true,
+    "linkDatesToDailyNotes": true,
     "enableTasksPluginReminderFormat": false,
     "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
