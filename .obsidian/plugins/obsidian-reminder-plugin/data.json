@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "daily/250604.md": [
-      {
-        "title": "#neovim global windowの設定を書く",
-        "time": "2025-06-04 19:30",
-        "rowNumber": 31
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "08:00",
