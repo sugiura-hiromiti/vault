@@ -5,7 +5,7 @@
   "interfaceFontFamily": "MesloLGL Nerd Font",
   "textFontFamily": "MesloLGL Nerd Font",
   "monospaceFontFamily": "MesloLGL Nerd Font",
-  "showRibbon": true,
+  "showRibbon": false,
   "nativeMenus": true,
   "cssTheme": "Catppuccin",
   "accentColor": "#510fcc",
