@@ -1,0 +1,32 @@
+{
+  "scanned": true,
+  "reminders": {
+    "daily/250604.md": [
+      {
+        "title": "#neovim global windowの設定を書く",
+        "time": "2025-06-04 19:30",
+        "rowNumber": 31
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "08:00",
+    "reminderTimeStep": 15,
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": true,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYMMDD",
+    "dateTimeFormat": "YYMMDD HHmm",
+    "strictDateFormat": true,
+    "linkDatesToDailyNotes": true,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

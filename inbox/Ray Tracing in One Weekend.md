@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250530 19:27:53
+updated: 250604 20:02:55
 ---
 ![](https://raytracing.github.io/images/fig-1.01-ppm.jpg)
 
