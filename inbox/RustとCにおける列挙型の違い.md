@@ -3,10 +3,10 @@ id: 25042007560997
 aliases:
   - enum_diff_between_rust_and_c
 tags:
-  - tech/rust/macro/decl
-  - tech/rust/osdev
+  - tech/rust/macro
+  - tech/osdev
 created: 250420 07:56:09
-updated: 250424 01:07:20
+updated: 250604 20:02:55
 ---
 
 # RustとCにおける列挙型の違い

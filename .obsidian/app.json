@@ -6,12 +6,12 @@
   "trashOption": "system",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "livePreview": true,
+  "livePreview": false,
   "propertiesInDocument": "visible",
   "spellcheck": false,
   "tabSize": 3,
   "promptDelete": false,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "vimMode": false,
   "defaultViewMode": "source"
 }

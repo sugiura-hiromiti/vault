@@ -1,6 +1,10 @@
-- [ ] Fira-code-nerd-font 
-- [ ] wldash
-- [ ] niri (includes alacritty & fuzzel)
+---
+created: 250421 15:50:14
+updated: 250604 20:02:55
+---
+- [x] Fira-code-nerd-font [completion:: 250602]
+- [x] wldash [completion:: 250602]
+- [x] niri (includes alacritty & fuzzel) [completion:: 250602]
 - [x] cargo-update
 - [x] starship
 - [x] xremap

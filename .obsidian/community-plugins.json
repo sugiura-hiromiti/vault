@@ -3,11 +3,14 @@
   "update-time-on-edit",
   "obsidian-git",
   "dataview",
-  "obsidian-tasks-plugin",
   "new-tab-plus",
   "obsidian-reading-time",
   "obsidian-icon-folder",
   "colored-tags",
   "tag-wrangler",
-  "omnisearch"
+  "omnisearch",
+  "various-complements",
+  "obsidian-auto-split",
+  "obsidian-reminder-plugin",
+  "obsidian-outliner"
 ]
