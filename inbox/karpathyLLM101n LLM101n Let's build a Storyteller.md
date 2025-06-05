@@ -10,7 +10,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250605 09:30:03
+updated: 250605 10:32:00
 ---
 This repository was archived by the owner on Aug 1, 2024. It is now read-only.
 
