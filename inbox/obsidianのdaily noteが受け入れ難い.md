@@ -6,7 +6,7 @@ tags:
   - idea
   - obsidian
 created: 250528 08:03:00
-updated: 250605 13:49:06
+updated: 250606 08:44:45
 ---
 
 最近Obsidian を使っています
