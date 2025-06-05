@@ -4,7 +4,7 @@ aliases:
 tags:
   - index
 created: 250602 07:31:14
-updated: 250605 13:49:06
+updated: 250606 08:44:45
 ---
 
 # tasks
