@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250605 08:46:33
+updated: 250605 09:30:03
 ---
 This small book describes how to use [Rust](https://www.rust-lang.org/) and [WebAssembly](https://webassembly.org/) together.
 
