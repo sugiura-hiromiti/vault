@@ -10,7 +10,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250605 10:32:00
+updated: 250605 11:10:37
 ---
 **[write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell)** Public
 
