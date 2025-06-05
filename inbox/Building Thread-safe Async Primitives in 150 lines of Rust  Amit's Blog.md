@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250605 11:10:37
+updated: 250605 12:48:23
 ---
 ## \> Building Thread-safe Async Primitives in 150 lines of Rust\_
 

@@ -4,7 +4,7 @@ aliases:
 tags:
   - clippings
 created: 250522 15:44:32
-updated: 250605 11:10:37
+updated: 250605 12:48:23
 title: SICP
 status: unread
 source: https://www.vocrf.net/docs_ja/jsicp.pdf
