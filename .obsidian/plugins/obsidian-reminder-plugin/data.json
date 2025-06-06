@@ -1,6 +1,19 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "daily/250606.md": [
+      {
+        "title": "[[rust読書250607|rust勉強会]]告知",
+        "time": "2025-06-07 10:30",
+        "rowNumber": 32
+      },
+      {
+        "title": "ガス開栓立ち会い",
+        "time": "2025-06-07 12:00",
+        "rowNumber": 31
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "08:00",
