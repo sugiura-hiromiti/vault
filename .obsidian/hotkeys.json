@@ -15,5 +15,14 @@
       ],
       "key": "Enter"
     }
+  ],
+  "editor:delete-paragraph": [],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
