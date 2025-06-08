@@ -10,7 +10,7 @@ tags:
   - tech/osdev
   - assembly
 status: bm
-updated: 250606 20:49:26
+updated: 250609 08:46:45
 ---
 ## はじめに (2015-12-11, 2020-07-04)
 
