@@ -7,7 +7,7 @@
   "monospaceFontFamily": "MesloLGL Nerd Font",
   "showRibbon": false,
   "nativeMenus": true,
-  "cssTheme": "Catppuccin",
-  "accentColor": "#510fcc",
+  "cssTheme": "Tokyo Night",
+  "accentColor": "#8447f5",
   "theme": "system"
 }
