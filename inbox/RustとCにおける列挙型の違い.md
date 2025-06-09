@@ -6,7 +6,7 @@ tags:
   - tech/rust/macro
   - tech/osdev
 created: 250420 07:56:09
-updated: 250609 08:46:45
+updated: 2025-06-10T06:33
 ---
 
 # RustとCにおける列挙型の違い
