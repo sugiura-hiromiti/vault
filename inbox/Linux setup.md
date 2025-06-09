@@ -1,6 +1,6 @@
 ---
 created: 250421 15:50:14
-updated: 250609 08:46:45
+updated: 2025-06-10T06:33
 ---
 - [x] Fira-code-nerd-font [completion:: 250602]
 - [x] wldash [completion:: 250602]
