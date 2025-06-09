@@ -6,7 +6,7 @@ tags:
   - osdev
   - rust
 created: 250606 14:59:23
-updated: 250609 08:46:45
+updated: 2025-06-10T06:33
 ---
 
 - カーネルが呼び出せない

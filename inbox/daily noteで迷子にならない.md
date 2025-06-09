@@ -8,7 +8,7 @@ tags:
   - obsidian
   - idea
 created: 250527 16:38:50
-updated: 250609 08:46:45
+updated: 2025-06-10T06:33
 ---
 
 - 朝の喫煙中に日記を書く
