@@ -12,7 +12,7 @@
   "tabSize": 3,
   "promptDelete": false,
   "strictLineBreaks": false,
-  "vimMode": true,
+  "vimMode": false,
   "defaultViewMode": "source",
   "pdfExportSettings": {
     "includeName": true,
