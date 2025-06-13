@@ -3,3 +3,4 @@
 .obsidian/graph.json
 .obsidian/workspace-mobile.json
 .obsidian/plugins/update-time-on-edit/data.json
+node_modules
