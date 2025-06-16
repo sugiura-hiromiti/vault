@@ -8,7 +8,7 @@ topics:
 published: true
 published_at: 2023-01-06 11:58
 created: 250426 08:55:26
-updated: 2025-06-14T08:32
+updated: 250616 14:09:54
 ---
 
 [init.lua](https://github.com/sugiura-hiromichi/.config/blob/master/nvim/init.lua)がそれなりに充実してきたので整理も兼ねて紹介記事を書こう！と思いついたので実行していきたいと思います。<br/>
