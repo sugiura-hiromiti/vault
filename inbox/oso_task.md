@@ -3,7 +3,7 @@ id: 25060119373093
 aliases: []
 tags: []
 created: 250601 19:37:30
-updated: 250617 08:55:37
+updated: 250617 09:36:55
 ---
 
 # kernelから描画する
@@ -22,3 +22,5 @@ updated: 250617 08:55:37
 	- [ ] MMIOを介してgpuを初期化
 	- [ ] FrameBufferの確保
 
+
+- gpu driverを実装したら一度リファクタしたい
