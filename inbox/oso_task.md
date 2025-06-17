@@ -3,7 +3,7 @@ id: 25060119373093
 aliases: []
 tags: []
 created: 250601 19:37:30
-updated: 250617 09:36:55
+updated: 250617 14:48:41
 ---
 
 # kernelから描画する
@@ -16,6 +16,8 @@ updated: 250617 09:36:55
 
 - [ ] device treeの解析
 	- [ ] dtbフォーマットのバイナリ解析
+		- [ ] バイナリパーサーの作製
+			- 汎用的にしたい
 
 - [ ] gpu driverの作成
 	- [ ] PCI情報を走査して（PCI enumeration）virtio-gpu-pciを探し出す
