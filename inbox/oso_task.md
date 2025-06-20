@@ -3,7 +3,7 @@ id: 25060119373093
 aliases: []
 tags: []
 created: 250601 19:37:30
-updated: 250618 14:01:10
+updated: 250619 09:55:42
 ---
 
 # kernelから描画する
@@ -16,9 +16,9 @@ updated: 250618 14:01:10
 - [ ] パーサージェネレータの作成
 	- [ ] derive macroでパーサーの自動生成（serdeの様に）
 
-- [ ] device treeの解析
-	- [ ] dtbフォーマットのバイナリ解析
-		- [ ] バイナリパーサーの作製
+- [ ] device treeの解析 [completion:: 250619]
+	- [ ] dtbフォーマットのバイナリ解析 [completion:: 250619]
+		- [ ] バイナリパーサーの作製 [completion:: 250619]
 			- 汎用的にしたい
 
 - [ ] gpu driverの作成
