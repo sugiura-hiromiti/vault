@@ -3,7 +3,7 @@ id: 25060119373093
 aliases: []
 tags: []
 created: 250601 19:37:30
-updated: 250619 09:55:42
+updated: 2025-06-21T09:08
 ---
 
 # kernelから描画する
