@@ -10,7 +10,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 2025-06-21T15:45
+updated: 250623 09:41:04
 ---
 ## Swap; and:
 
