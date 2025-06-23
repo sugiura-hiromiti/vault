@@ -3,7 +3,7 @@ id: 25060119373093
 aliases: []
 tags: []
 created: 250601 19:37:30
-updated: 250623 14:42:10
+updated: 250623 14:50:26
 ---
 
 # kernelから描画する
@@ -30,5 +30,5 @@ updated: 250623 14:42:10
 - [ ] gpu driverを実装したら一度リファクタしたい
 
 - [ ] oso_errorのリファクタ
-	- [ ] いつ・どこで起こったか(from)、何処から回復するか(recovery)、どう回復するか(care)
-		- recoveryはOption型
+	- [ ] いつ・どこで起こったか(from)、何がプログラムの想定外なのか(reason)、何処から回復するか(recovery)、どう回復するか(care)
+		- recoveryとcareはデータとしてはセット
