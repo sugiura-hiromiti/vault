@@ -3,7 +3,7 @@ id: 25060119373093
 aliases: []
 tags: []
 created: 250601 19:37:30
-updated: 250623 09:41:03
+updated: 250623 13:50:10
 ---
 
 # kernelから描画する
@@ -27,4 +27,6 @@ updated: 250623 09:41:03
 	- [ ] FrameBufferの確保
 
 
-- gpu driverを実装したら一度リファクタしたい
+- [ ] gpu driverを実装したら一度リファクタしたい
+
+- [ ] `oso_error`のリファクタ
