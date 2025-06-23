@@ -7,7 +7,7 @@ tags:
   - rust
   - parser
 created: 250623 09:43:00
-updated: 250623 10:21:01
+updated: 250623 10:44:55
 ---
 
 - パーサ生成フレームワーク
@@ -23,6 +23,6 @@ updated: 250623 10:21:01
 			- 構造文脈適応：preced, terminate, delimiter
 		- [?] コンビネータを型で表すには
 	- 状態と意味論を持ち込める様に
-		- 型で表現された意味論を受け取る
+		- [i] 型で表現された意味論を受け取る
 			- [?] const genericsか[PhantomData](https://qnighy.hatenablog.com/entry/2018/01/14/220000)でマークか
 		- 状態は動的に決まるためデータとして表す方が良い
