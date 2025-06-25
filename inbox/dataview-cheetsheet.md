@@ -1,9 +1,11 @@
 ---
 id: 25062511413213
-aliases: []
-tags: []
+aliases:
+  - dataviewjs
+  - cheetsheet
+tags: 
 created: 250625 11:41:32
-updated: 250625 12:41:37
+updated: 250625 12:56:01
 ---
 
 ### inline query
@@ -51,3 +53,22 @@ dv.el('div', "hoge",
 where is matter?
 
 [defines-react-components:: true]
+
+### with element
+
+```dataviewjs
+s = [
+  ["阪神", 20, 13],
+  ["DeNA", 19, 14],
+  ["広島", 18, 16]
+]
+
+dv.table(["チーム", "勝ち", "負け"], dv.array(s))
+
+const e = dv.el("button", "copy")
+e.onclick = function(){
+  new Notice("copy")
+  t = dv.markdownTable(["チーム", "勝ち", "負け"], dv.array(s))
+  navigator.clipboard.writeText(t)
+}
+```
