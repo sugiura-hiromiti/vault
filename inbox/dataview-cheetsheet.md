@@ -81,7 +81,7 @@ const a = dv.el("input");
 a.placeholder = "keyword";
 a.style = "font-size:20px;background:whitesmoke;width:100%;height:25px;border-radius:6px;";
 
-dv.paragraph("---")
+dv.paragraph("---");
 
 const b = dv.el("div","")
 
@@ -95,6 +95,7 @@ a.onkeyup = function(){
 			let alias_match = false;
 			if (x.file.frontmatter.aliases !== undefined) {
 				const note_alias = x.file.frontmatter.aliases;
+				console.log('note_alias', note_alias);
 				alias_match = note_alias.filter(
 					a => a.includes([inp]))
 					.length !== 0;
