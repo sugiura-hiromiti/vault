@@ -4,17 +4,15 @@ aliases:
 tags:
   - index
 created: 250602 07:31:14
-updated: 2025-06-10T06:33
+updated: 250625 13:10:07
 ---
 
 # tasks
 
 ```dataviewjs
-dv.taskList(
-	dv.pages().file.tasks
+const tl = 	dv.pages().file.tasks
 		.filter(task => !task.not_task)
 		.filter(task => {
-			let is_list = false;
 			const task_status = task.status;
 			
 			if (
@@ -31,13 +29,13 @@ dv.taskList(
 				|| task_status === "u"
 				|| task_status === "w"
 			) {
-				is_list = true;
+				return false;
 			}
 			
-			return !is_list && !task.completed;
+			return !task.completed;
 		})
-		.filter(task => !task.text.includes('(@'))
-)
+		.filter(task => !task.text.includes('(@'));
+dv.taskList(tl);
 ```
 
 # reminder
@@ -118,7 +116,6 @@ dv.taskList(
 		})
 		.filter(task => {
 			const when_completed = parseInt(task.completion);
-			console.log('————————————---',when_completed);
 			
 			const today = new Date();
 			const last_week = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
@@ -127,7 +124,6 @@ dv.taskList(
 			const last_week_date = last_week.getDate();
 			
 			const last_week_int = last_week_year + last_week_month + last_week_date;
-			console.log('————————————————————————————————————————————————---',last_week_int);
 			
 			return when_completed > last_week_int;
 		})
