@@ -5,7 +5,7 @@ aliases:
   - cheetsheet
 tags: 
 created: 250625 11:41:32
-updated: 250625 15:27:36
+updated: 250625 15:49:14
 ---
 
 ### inline query
@@ -72,6 +72,14 @@ e.onclick = function(){
   navigator.clipboard.writeText(t)
 }
 ```
+
+### dynamic header
+
+```dataviewjs
+dv.header(4, new Date().toString());
+```
+
+abc
 
 # interactive text
 

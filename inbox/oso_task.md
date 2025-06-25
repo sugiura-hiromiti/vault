@@ -3,7 +3,7 @@ id: 25060119373093
 aliases: []
 tags: []
 created: 250601 19:37:30
-updated: 250623 15:26:33
+updated: 250625 15:52:21
 ---
 
 # kernelから描画する
@@ -14,7 +14,8 @@ updated: 250623 15:26:33
 		- [x] configuration tableを取得する [completion:: 250617]
 
 - [ ] パーサージェネレータの作成
-	- [ ] derive macroでパーサーの自動生成（serdeの様に）
+	- [-] derive macroでパーサーの自動生成（serdeの様に）
+	- [ ] ↑attribute macroの方が良いかも
 
 - [ ] device treeの解析 [completion:: 250619]
 	- [ ] dtbフォーマットのバイナリ解析 [completion:: 250619]
