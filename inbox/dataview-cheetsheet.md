@@ -5,7 +5,7 @@ aliases:
   - cheetsheet
 tags: 
 created: 250625 11:41:32
-updated: 250625 13:34:44
+updated: 250625 13:42:43
 ---
 
 ### inline query
@@ -83,7 +83,7 @@ a.style = "font-size:20px;background:whitesmoke;width:100%;height:25px;border-ra
 
 dv.paragraph("---")
 
-const b = dv.el("div","")
+// const b = dv.el("div","")
 
 a.onkeyup = function(){
 	const inp = a.value;
@@ -101,6 +101,8 @@ a.onkeyup = function(){
 		.sort(x => x.file.mday, "desc")
 	  //.map(x => "<a href=obsidian://open?file="+encodeURI(x.file.name)+"><img width=98 src="+x.coverUrl+"></a>")
   //b.innerHTML = d.join(" ")
-		.map(n => )
+		.map(n => {
+			
+		});
 }
 ```
