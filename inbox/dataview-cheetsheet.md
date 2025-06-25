@@ -5,7 +5,7 @@ aliases:
   - cheetsheet
 tags: 
 created: 250625 11:41:32
-updated: 250625 13:08:19
+updated: 250625 13:34:44
 ---
 
 ### inline query
@@ -73,18 +73,34 @@ e.onclick = function(){
 }
 ```
 
+# interactive text
+
 ```dataviewjs
-dv.span("ノート検索")
-const a = dv.el("input")
-a.placeholder = "keyword"
-a.style = "font-size:18px;background:whitesmoke;width:100%;"
+dv.span("ノート検索");
+const a = dv.el("input");
+a.placeholder = "keyword";
+a.style = "font-size:20px;background:whitesmoke;width:100%;height:25px;border-radius:6px;";
+
 dv.paragraph("---")
+
 const b = dv.el("div","")
+
 a.onkeyup = function(){
-  d = dv.pages('"book"')
-  .filter(x => x.file.name.includes([a.value]))
-  .sort(x => x.publishDate, "desc")
-  .map(x => "<a href=obsidian://open?file="+encodeURI(x.file.name)+"><img width=98 src="+x.coverUrl+"></a>")
-  b.innerHTML = d.join(" ")
+	const inp = a.value;
+	const d = dv.pages()
+		// .filter(x => x.file.name.includes([a.value]))
+		.filter(x => {
+			const fname = x.file.name;
+			const note_alias = x.file.frontmatter.aliases;
+			
+			const fname_match = fname.includes([inp]);
+			const alias_match = note_alias.filter(
+				a => a.includes([inp]))
+				.length  !== 0;
+		})
+		.sort(x => x.file.mday, "desc")
+	  //.map(x => "<a href=obsidian://open?file="+encodeURI(x.file.name)+"><img width=98 src="+x.coverUrl+"></a>")
+  //b.innerHTML = d.join(" ")
+		.map(n => )
 }
 ```
