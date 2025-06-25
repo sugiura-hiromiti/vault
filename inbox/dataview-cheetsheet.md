@@ -3,7 +3,7 @@ id: 25062511413213
 aliases: []
 tags: []
 created: 250625 11:41:32
-updated: 250625 12:00:09
+updated: 250625 12:41:37
 ---
 
 ### inline query
@@ -39,11 +39,15 @@ dv.span(mdt);
 dv.el('div', "hoge",
 	{
 		attr: {
-			
+			style: "color:blue;text-align:center;"
 		}
 	}
-)
+);
 
 // copy contents to clipboard
-navigator.clipboard.writeText(mdt);
+// navigator.clipboard.writeText(mdt);
 ```
+
+where is matter?
+
+[defines-react-components:: true]
