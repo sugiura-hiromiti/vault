@@ -5,7 +5,7 @@ aliases:
   - cheetsheet
 tags: 
 created: 250625 11:41:32
-updated: 250625 12:56:01
+updated: 250625 13:08:19
 ---
 
 ### inline query
@@ -70,5 +70,21 @@ e.onclick = function(){
   new Notice("copy")
   t = dv.markdownTable(["チーム", "勝ち", "負け"], dv.array(s))
   navigator.clipboard.writeText(t)
+}
+```
+
+```dataviewjs
+dv.span("ノート検索")
+const a = dv.el("input")
+a.placeholder = "keyword"
+a.style = "font-size:18px;background:whitesmoke;width:100%;"
+dv.paragraph("---")
+const b = dv.el("div","")
+a.onkeyup = function(){
+  d = dv.pages('"book"')
+  .filter(x => x.file.name.includes([a.value]))
+  .sort(x => x.publishDate, "desc")
+  .map(x => "<a href=obsidian://open?file="+encodeURI(x.file.name)+"><img width=98 src="+x.coverUrl+"></a>")
+  b.innerHTML = d.join(" ")
 }
 ```
