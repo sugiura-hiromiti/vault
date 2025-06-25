@@ -5,7 +5,7 @@ aliases:
   - cheetsheet
 tags: 
 created: 250625 11:41:32
-updated: 250625 15:49:14
+updated: 250625 17:19:24
 ---
 
 ### inline query
@@ -91,8 +91,8 @@ a.style = "font-size:20px;background:whitesmoke;width:100%;height:25px;border-ra
 
 dv.paragraph("---");
 
-const b = dv.el("div","");
-const l = dv.el("div", '');
+const counter = dv.el("div","");
+const list_views = dv.el("div", '');
 
 a.onkeyup = function(){
 	const inp = a.value;
@@ -131,7 +131,7 @@ a.onkeyup = function(){
 	const mdl = dv.markdownList(d);
 	dv.span(mdl);
 	*/
-	l.innerHTML = d.join("<br>");
-	b.innerHTML = d.length;
+	list_views.innerHTML = d.join("<br>");
+	counter.innerHTML = d.length;
 }
 ```
