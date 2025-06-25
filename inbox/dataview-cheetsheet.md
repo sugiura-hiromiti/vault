@@ -5,7 +5,7 @@ aliases:
   - cheetsheet
 tags: 
 created: 250625 11:41:32
-updated: 250625 14:17:17
+updated: 250625 15:12:38
 ---
 
 ### inline query
@@ -83,34 +83,47 @@ a.style = "font-size:20px;background:whitesmoke;width:100%;height:25px;border-ra
 
 dv.paragraph("---");
 
-const b = dv.el("div","")
+const b = dv.el("div","");
+const l = dv.el("div", '');
 
 a.onkeyup = function(){
 	const inp = a.value;
 	const d = dv.pages()
 		.filter(x => {
 			const fname = x.file.name;
-			const fname_match = fname.includes([inp]);
+			const fname_match = fname.includes(inp);
 			
 			let alias_match = false;
-			if (x.file.frontmatter.aliases !== undefined) {
+			if (x.file.frontmatter.aliases !== undefined
+				&& x.file.frontmatter.aliases !== null) {
 				const note_alias = x.file.frontmatter.aliases;
 				console.log('note_alias', note_alias);
 				alias_match = note_alias.filter(
-					a => a.includes([inp]))
+					a => a.toString().includes(inp))
 					.length !== 0;
 			}
 			
 			return fname_match || alias_match;
 		})
 		.sort(x => x.file.mday, "asc")
-		.map(n => "<p>abc <p>");
-	  //.map(x => "<a href=obsidian://open?file="+encodeURI(x.file.name)+"><img width=98 src="+x.coverUrl+"></a>")
-  //b.innerHTML = d.join(" ")
-		//.map(n => {
-	//		return dv.fileLink(n.file.path, false, n.file.path);
-		//});
-
-	b.innerHTML = d.join(" ");
+		.map(n =>
+			'<a '
+			+ 'data-tooltip-position="top"'
+			+ 'aria-label="' + n.file.path + '"'
+			+ 'data-href="' + n.file.path + '"'
+			+ 'href="' + n.file.path + '"'
+			+ 'class="internal-link"'
+			+ 'target="_blank"'
+			+ 'rel="noopener nofollow"'
+			+ '>'
+			+ n.file.name
+			+ '</a>'
+		);
+	/*
+	const mdl = dv.markdownList(d);
+	dv.span(mdl);
+	*/
+	l.innerHTML = d.join("<br>");
+	b.innerHTML = d.length;
 }
 ```
