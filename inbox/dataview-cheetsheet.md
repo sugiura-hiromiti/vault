@@ -5,7 +5,7 @@ aliases:
   - cheetsheet
 tags: 
 created: 250625 11:41:32
-updated: 250626 09:16:14
+updated: 250626 09:52:50
 ---
 
 ### inline query
@@ -87,7 +87,7 @@ abc
 dv.span("ノート検索");
 const a = dv.el("input");
 a.placeholder = "keyword";
-a.style = "font-size:20px;background:whitesmoke;width:100%;height:25px;border-radius:6px;";
+a.style = "font-size:22px;background:whitesmoke;width:100%;padding:5px 10px;border-radius:6px;";
 
 dv.paragraph("---");
 
