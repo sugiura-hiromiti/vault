@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "daily/250626.md": [
-      {
-        "title": "家賃振り込み",
-        "time": "2025-06-26 12:30",
-        "rowNumber": 30
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "08:00",
