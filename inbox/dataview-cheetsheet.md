@@ -5,7 +5,7 @@ aliases:
   - cheetsheet
 tags: 
 created: 250625 11:41:32
-updated: 250625 17:19:24
+updated: 250626 09:16:14
 ---
 
 ### inline query
@@ -113,7 +113,7 @@ a.onkeyup = function(){
 			
 			return fname_match || alias_match;
 		})
-		.sort(x => x.file.mday, "asc")
+		.sort(x => x.file.mday, "desc")
 		.map(n =>
 			'<a '
 			+ 'data-tooltip-position="top"'
