@@ -1,7 +1,6 @@
 [
   "templater-obsidian",
   "update-time-on-edit",
-  "obsidian-git",
   "dataview",
   "new-tab-plus",
   "obsidian-reading-time",
@@ -13,5 +12,6 @@
   "obsidian-outliner",
   "periodic-notes",
   "obisidian-note-linker",
-  "obsidian-zoom"
+  "obsidian-zoom",
+  "obsidian-git"
 ]
