@@ -5,3 +5,4 @@
 .obsidian/plugins/update-time-on-edit/data.json
 node_modules
 *.nosync
+.obsidian/plugins/obsidian-git/
