@@ -42,7 +42,7 @@
   "FetchMemosMark": "#memo",
   "FetchMemosFromNote": false,
   "ShowCommentOnMemos": false,
-  "ShowLeftSideBar": false,
+  "ShowLeftSideBar": true,
   "MemoListView": "list",
   "MemoSaveLocation": "DAILY",
   "MemoOtherSaveLocation": {
@@ -51,7 +51,7 @@
     "MemoDefaultSingleFilePath": "basic.thino.md"
   },
   "MemoDailyTarget": 5,
-  "HeatmapColorScheme": "default",
+  "HeatmapColorScheme": "ice",
   "EnabledHttpApi": false,
   "HttpApiIpType": "127.0.0.1",
   "HttpApiPort": "43999",
