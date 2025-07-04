@@ -42,7 +42,7 @@
   "FetchMemosMark": "#memo",
   "FetchMemosFromNote": false,
   "ShowCommentOnMemos": false,
-  "ShowLeftSideBar": false,
+  "ShowLeftSideBar": true,
   "MemoListView": "list",
   "MemoSaveLocation": "DAILY",
   "MemoOtherSaveLocation": {
@@ -85,7 +85,7 @@
   "MomentsBackgroundImage": "https://images.pexels.com/photos/531767/pexels-photo-531767.jpeg",
   "MomentsIcon": "https://images.pexels.com/photos/256514/pexels-photo-256514.jpeg",
   "MomentsQuote": "Share your thino with the world",
-  "DefaultThemeForThino": "modern",
+  "DefaultThemeForThino": "classic",
   "LastUpdatedVersion": "2.7.16",
   "ShareToThinoWithText": false,
   "ShareToThinoWithTextAppend": "",
