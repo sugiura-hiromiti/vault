@@ -7,7 +7,7 @@ aliases:
 tags:
   - git
 created: 250707 13:13:18
-updated: 250708 16:41:12
+updated: 2025-07-08T16:48
 ---
 
 # gitで過去のコミットを部分的に復元
