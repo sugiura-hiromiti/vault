@@ -9,7 +9,7 @@ tags:
   - clippings
 status: unread
 aliases: 
-updated: 250709 16:38:28
+updated: 2025-07-09T16:45
 ---
 [![サーバー監視/ネットワーク監視](https://sozai.cman.jp/imgSV/pageTopLogo.png)](https://www.cman.jp/network/)
 
