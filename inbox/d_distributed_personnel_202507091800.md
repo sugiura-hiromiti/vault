@@ -1,6 +1,6 @@
 ---
 created: 250709 18:01:40
-updated: 250709 18:20:28
+updated: 2025-07-09T18:27
 ---
 | calc_ym | company_code | contract_voucher_id | employee_number | months_and_years | register_flag | department_code | workers_distributed_personnel | in_house_distributed_personnel | lesson_distributed_personnel | basic_quantity_unit | workers_hours | in_house_time | lesson_hours | quantity_unit | created_at              |
 | ------- | ------------ | ------------------- | --------------- | ---------------- | ------------- | --------------- | ----------------------------- | ------------------------------ | ---------------------------- | ------------------- | ------------- | ------------- | ------------ | ------------- | ----------------------- |
