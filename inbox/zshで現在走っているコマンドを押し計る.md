@@ -7,7 +7,7 @@ tags:
   - zsh
   - cli
 created: 250707 17:13:36
-updated: 2025-07-10T14:58
+updated: 250710 15:05:38
 ---
 
 # 結論
