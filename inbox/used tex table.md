@@ -3,7 +3,7 @@ id: 25071114464498
 aliases: []
 tags: []
 created: 250711 14:46:44
-updated: 250711 16:09:41
+updated: 2025-07-11T16:14
 ---
 
 - [x] 勤怠明細（給与用）attrecordforpayroll
