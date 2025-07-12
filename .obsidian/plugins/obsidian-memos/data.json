@@ -42,7 +42,7 @@
   "FetchMemosMark": "#memo",
   "FetchMemosFromNote": false,
   "ShowCommentOnMemos": false,
-  "ShowLeftSideBar": true,
+  "ShowLeftSideBar": false,
   "MemoListView": "list",
   "MemoSaveLocation": "DAILY",
   "MemoOtherSaveLocation": {
