@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "daily/250722.md": [
+      {
+        "title": "14:35 延長コードとミキサー購入",
+        "time": "2025-07-22 19:10",
+        "rowNumber": 29
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "08:00",
