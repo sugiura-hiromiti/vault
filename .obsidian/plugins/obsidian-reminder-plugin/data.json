@@ -3,9 +3,9 @@
   "reminders": {
     "daily/2025-07-25.md": [
       {
-        "title": "yabai設定更新",
-        "time": "2025-07-25 20:00",
-        "rowNumber": 54
+        "title": "use dataview inline query `= this.file.cday` `= this.file.mday` instead",
+        "time": "2025-07-25 19:00",
+        "rowNumber": 55
       }
     ]
   },
