@@ -5,6 +5,8 @@ created: {{date}} {{time}}
 updated: {{date}} {{time}}
 ---
 
+#### created notes
+
 ```dataviewjs
 dv.list(
 	dv.pages()
@@ -25,3 +27,5 @@ dv.list(
 		.map(p => dv.fileLink(p.file.path, false, p.file.path))
 )
 ```
+
+#### tasks
