@@ -1,5 +1,5 @@
 {
-  "scanned": true,
+  "scanned": false,
   "reminders": {},
   "debug": false,
   "settings": {
@@ -10,8 +10,8 @@
     "autoCompleteTrigger": "(@",
     "primaryReminderFormat": "ReminderPluginReminderFormat",
     "enableReminderPluginReminderFormat": true,
-    "dateFormat": "YYMMDD",
-    "dateTimeFormat": "YYMMDD HHmm",
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HHmm",
     "strictDateFormat": true,
     "linkDatesToDailyNotes": true,
     "enableTasksPluginReminderFormat": false,
