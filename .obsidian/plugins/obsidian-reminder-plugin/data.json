@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "daily/2025-07-25.md": [
+      {
+        "title": "yabai設定更新",
+        "time": "2025-07-25 20:00",
+        "rowNumber": 54
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "08:00",

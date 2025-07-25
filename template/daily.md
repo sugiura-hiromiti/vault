@@ -13,12 +13,15 @@ updated: {{date}} {{time}}
 
 ```dataviewjs
 const today = new Date();
-const date = `(@[[${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}]]`;
+const year = today.getFullYear();
+const month = `${today.getMonth() + 101}`.substring(1);
+const date = today.getDate();
+const key = `(@[[${year}-${(month)}-${date}]]`;
 
 let script = await dv.io.load('script/task.js');
 script = `const tl = ${script}
 .filter(task => !task.completed)
-.filter(task => task.text.includes('${date}'));
+.filter(task => task.text.includes('${key}'));
 dv.taskList(tl);`;
 
 dv.executeJs(script);
