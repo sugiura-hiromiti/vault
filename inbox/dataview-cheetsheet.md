@@ -5,7 +5,7 @@ aliases:
   - cheetsheet
 tags: 
 created: 250625 11:41:32
-updated: 250626 09:52:50
+updated: 2025-07-25 12:41:24
 ---
 
 ### inline query
@@ -134,4 +134,15 @@ a.onkeyup = function(){
 	list_views.innerHTML = d.join("<br>");
 	counter.innerHTML = d.length;
 }
+```
+
+#### todo today
+
+- [ ] task is due today [due:: 2025-07-25]
+
+```dataviewjs
+dv.list(
+	dv.pages().file.tasks
+		.filter(t => )
+)
 ```
