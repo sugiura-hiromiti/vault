@@ -5,6 +5,25 @@ created: {{date}} {{time}}
 updated: {{date}} {{time}}
 ---
 
+- [ ] ckecks todo today!(@[[{{date}}]] 7:00)
+
+---
+
+#### todo-today
+
+```dataviewjs
+const today = new Date();
+const date = `(@${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
+
+let script = await dv.io.load('script/task.js');
+script = `const tl = ${script}
+.filter(task => !task.completed)
+.filter(task => task.text.includes(date));
+dv.taskList(tl);`;
+
+dv.executeJs(script);
+```
+
 #### created notes
 
 ```dataviewjs
@@ -27,5 +46,3 @@ dv.list(
 		.map(p => dv.fileLink(p.file.path, false, p.file.path))
 )
 ```
-
-#### tasks
