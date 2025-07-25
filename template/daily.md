@@ -13,7 +13,7 @@ updated: {{date}} {{time}}
 
 ```dataviewjs
 const today = new Date();
-const date = `(@${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
+const date = `(@[[${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}]]`;
 
 let script = await dv.io.load('script/task.js');
 script = `const tl = ${script}
