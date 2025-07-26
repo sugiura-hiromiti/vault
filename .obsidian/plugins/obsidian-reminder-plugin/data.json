@@ -3,11 +3,6 @@
   "reminders": {
     "daily/2025-07-25.md": [
       {
-        "title": "use dataview [inline query](https://blacksmithgu.github.io/obsidian-dataview/annotation/metadata-pages/) like `this.file.ctime` instead",
-        "time": "2025-07-25 19:00",
-        "rowNumber": 55
-      },
-      {
         "title": "remove label from space",
         "time": "2025-07-25 20:00",
         "rowNumber": 57
