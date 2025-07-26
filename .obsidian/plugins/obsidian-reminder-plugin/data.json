@@ -8,11 +8,6 @@
         "rowNumber": 57
       },
       {
-        "title": "dynamically create/delete/move 1 space at builtin and 2 space at external",
-        "time": "2025-07-26 15:00",
-        "rowNumber": 58
-      },
-      {
         "title": "add rule/signal for connecting/disconnecting display",
         "time": "2025-07-26 16:00",
         "rowNumber": 59
