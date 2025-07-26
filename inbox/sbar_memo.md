@@ -1,16 +1,16 @@
 ---
 created: 2025-07-26T10:06
-updated: 2025-07-26T10:21
+updated: 2025-07-26T17:52
 ---
 required infos
 
 - display
-	- is focused
+	- focused
 	- builtin
 	- external
 - space
-	- active
-	- is focused
+	- visible
+	- focused
 	- on builtin
 	- on external
 	- is fullscreen
@@ -19,8 +19,8 @@ required infos
 		- stack
 		- bsp
 - window
-	- active
-	- is focused
+	- visible
+	- focused
 	- on builtin
 	- on external
 	- is fullscreen
