@@ -1,6 +1,6 @@
 ---
 created: 2025-07-26T10:06
-updated: 2025-07-26T10:09
+updated: 2025-07-26T10:21
 ---
 required infos
 
@@ -24,3 +24,5 @@ required infos
 	- on builtin
 	- on external
 	- is fullscreen
+
+- [ ] add indicator of layout style(bsp, stack or float) on sbar's space item
