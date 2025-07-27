@@ -3,13 +3,8 @@
   "reminders": {
     "daily/2025-07-25.md": [
       {
-        "title": "remove label from space",
-        "time": "2025-07-25 20:00",
-        "rowNumber": 57
-      },
-      {
         "title": "add rule/signal for connecting/disconnecting display",
-        "time": "2025-07-27",
+        "time": "2025-07-27 17:42",
         "rowNumber": 59
       }
     ]
