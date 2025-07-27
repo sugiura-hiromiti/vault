@@ -1,11 +1,11 @@
 {
   "scanned": true,
   "reminders": {
-    "daily/2025-07-25.md": [
+    "inbox/sbar_memo.md": [
       {
-        "title": "add rule/signal for connecting/disconnecting display",
-        "time": "2025-07-27 20:42",
-        "rowNumber": 59
+        "title": "add indicator of layout style(bsp, stack or float) on sbar's space item",
+        "time": "2025-07-28 06:30",
+        "rowNumber": 49
       }
     ]
   },
