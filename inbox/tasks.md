@@ -4,7 +4,7 @@ aliases:
 tags:
   - index
 created: 250602 07:31:14
-updated: 2025-07-28 11:14:57
+updated: 2025-07-28 16:06:08
 ---
 
 # reminder
@@ -13,6 +13,7 @@ updated: 2025-07-28 11:14:57
 let script=await dv.io.load('script/task.js');
 script=`const tl = ${script}`;
 script = `${script}.filter(task => !task.completed)`;
+script = `${script}.filter(task => !task.text.includes("{{date}}"))`;
 script = `${script}.filter(task => task.text.includes('(@'));`;
 script =`${script} dv.taskList(tl);`;
 
