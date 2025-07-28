@@ -1,10 +1,6 @@
 ---
 created: 2025-07-26T10:06
-<<<<<<< HEAD
-updated: 2025-07-28T09:10
-=======
-updated: 2025-07-28 16:02:59
->>>>>>> origin/main
+updated: 2025-07-29 08:53:28
 ---
 required infos
 
