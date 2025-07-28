@@ -52,7 +52,7 @@ required infos
 		- space on
 
 <<<<<<< HEAD
-- [ ] add indicator of layout style(bsp, stack or float) on sbar's space item(@[[2025-07-29]])
-=======
+- [x] add indicator of layout style(bsp, stack or float) on sbar's space item(@[[2025-07-29]])
+	======= [completion:: 250728]
 - [x] add indicator of layout style(bsp, stack or float) on sbar's space item(@[[2025-07-28]] 06:30) [completion:: 250728]
 >>>>>>> origin/main
