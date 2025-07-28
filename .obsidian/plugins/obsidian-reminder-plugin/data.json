@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "daily/2025-07-28.md": [
+      {
+        "title": "出勤時間：1115",
+        "time": "2025-07-28 18:00",
+        "rowNumber": 11
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "08:00",
