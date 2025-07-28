@@ -5,6 +5,11 @@
       {
         "title": "出勤時間：1115",
         "time": "2025-07-28 18:00",
+        "rowNumber": 10
+      },
+      {
+        "title": "add `cron` config to automatically update nix",
+        "time": "2025-07-29 19:00",
         "rowNumber": 11
       }
     ]
