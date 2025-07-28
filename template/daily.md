@@ -5,7 +5,7 @@ created: {{date}} {{time}}
 updated: {{date}} {{time}}
 ---
 
-- [ ] ckecks todo today!(@[[{{date}}]] 7:00)
+- [x] ckecks todo today!(@[[{{date}}]] 7:00) [completion:: 250728]
 
 ---
 
