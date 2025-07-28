@@ -1,10 +1,10 @@
 {
   "scanned": true,
   "reminders": {
-    "inbox/sbar_memo.md": [
+    "daily/2025-07-28.md": [
       {
-        "title": "add indicator of layout style(bsp, stack or float) on sbar's space item",
-        "time": "2025-07-29",
+        "title": "add `cron` config to automatically update nix",
+        "time": "2025-07-29 19:00",
         "rowNumber": 54
       }
     ]
