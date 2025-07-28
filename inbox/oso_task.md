@@ -3,7 +3,7 @@ id: 25060119373093
 aliases: []
 tags: []
 created: 250601 19:37:30
-updated: 250625 15:52:21
+updated: 2025-07-28T21:22
 ---
 
 # kernelから描画する
@@ -16,6 +16,8 @@ updated: 250625 15:52:21
 - [ ] パーサージェネレータの作成
 	- [-] derive macroでパーサーの自動生成（serdeの様に）
 	- [ ] ↑attribute macroの方が良いかも
+	- [ ] tree walkerの実装
+		- [ ] treeデータ構造も定義
 
 - [ ] device treeの解析 [completion:: 250619]
 	- [ ] dtbフォーマットのバイナリ解析 [completion:: 250619]
