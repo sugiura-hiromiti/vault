@@ -12,6 +12,18 @@
         "time": "2025-07-29 19:00",
         "rowNumber": 54
       }
+    ],
+    "inbox/skhd_karabiner_modal_wow.md": [
+      {
+        "title": "skhdの設定にmode変更のキーバインドを加える",
+        "time": "2025-07-30 19:00",
+        "rowNumber": 6
+      },
+      {
+        "title": "`karabiner_cli`を用いてskhdからkarabiner elementのプロフィールを変更する",
+        "time": "2025-07-30 20:00",
+        "rowNumber": 7
+      }
     ]
   },
   "debug": false,
