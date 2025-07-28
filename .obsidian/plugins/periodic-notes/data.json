@@ -15,7 +15,7 @@
     "enabled": true
   },
   "monthly": {
-    "format": "",
+    "format": "YYYY-MMMM",
     "template": "",
     "folder": "",
     "enabled": true
