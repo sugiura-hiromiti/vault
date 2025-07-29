@@ -1,16 +1,10 @@
 ---
 aliases: [{{date}}]
 tags: [{{date}}]
-created: {{date}} {{time}}
-updated: {{date}} {{time}}
 ---
-
-- [x] ckecks todo today!(@[[{{date}}]] 7:00) [completion:: 250728]
-
----
-
 #### todo-today
 
+- [ ] ckecks todo today!(@[[{{date}}]] 7:00) [completion:: 250728]
 ```dataviewjs
 const today = new Date();
 const year = today.getFullYear();
@@ -49,3 +43,5 @@ dv.list(
 		.map(p => dv.fileLink(p.file.path, false, p.file.path))
 )
 ```
+
+---
