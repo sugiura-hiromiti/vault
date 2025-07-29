@@ -1,6 +1,6 @@
 ---
 created: 2025-07-26T10:06
-updated: 2025-07-29T11:38
+updated: 2025-07-29 11:45:41
 ---
 required infos
 
