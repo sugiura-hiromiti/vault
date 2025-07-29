@@ -1,6 +1,6 @@
 ---
 created: 2025-07-28 17:46:43
-updated: 2025-07-29 08:49:03
+updated: 2025-07-29 08:58:32
 ---
 # multi modal keybind system by skhd and karabiner elements
 
