@@ -7,13 +7,6 @@
         "time": "2025-07-29 19:00",
         "rowNumber": 54
       }
-    ],
-    "daily/2025-07-29.md": [
-      {
-        "title": "fix setting of time format in obsidian's plugin, update-time-on-edit",
-        "time": "2025-07-29 19:00",
-        "rowNumber": 55
-      }
     ]
   },
   "debug": false,

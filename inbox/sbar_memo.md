@@ -1,6 +1,6 @@
 ---
 created: 2025-07-26T10:06
-updated: 2025-07-29 12:16:15
+updated: 2025-07-30 08:48:39
 ---
 required infos
 
@@ -47,8 +47,4 @@ required infos
 		- display on 
 		- space on
 
-<<<<<<< HEAD
-- [x] add indicator of layout style(bsp, stack or float) on sbar's space item(@[[2025-07-29]])
-	======= [completion:: 250728]
 - [x] add indicator of layout style(bsp, stack or float) on sbar's space item(@[[2025-07-28]] 06:30) [completion:: 250728]
->>>>>>> origin/main

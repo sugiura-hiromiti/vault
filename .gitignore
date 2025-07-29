@@ -8,3 +8,4 @@ node_modules
 *.nosync
 .obsidian/plugins/obsidian-git/
 .obsidian/plugins/obsidian-reminder-plugin/data.json
+**/histories.json
