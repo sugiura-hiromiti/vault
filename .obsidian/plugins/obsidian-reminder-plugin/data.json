@@ -7,6 +7,13 @@
         "time": "2025-07-29 19:00",
         "rowNumber": 54
       }
+    ],
+    "daily/2025-07-29.md": [
+      {
+        "title": "invest `notifyd` and `notifyctl` command",
+        "time": "2025-07-29 12:00",
+        "rowNumber": 54
+      }
     ]
   },
   "debug": false,
