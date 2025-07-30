@@ -1,0 +1,1 @@
+- [ ] build and deploy documents only when merged from develop to main (@[[2025-07-31]] 12:00)
