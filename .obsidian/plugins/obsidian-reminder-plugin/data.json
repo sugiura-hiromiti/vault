@@ -4,8 +4,15 @@
     "daily/2025-07-28.md": [
       {
         "title": "add `cron` config to automatically update nix",
-        "time": "2025-07-29 19:00",
+        "time": "2025-07-30 09:34",
         "rowNumber": 54
+      }
+    ],
+    "daily/2025-07-30.md": [
+      {
+        "title": "sketcher: fix add/remove strategy of space indicator",
+        "time": "2025-07-30 11:14",
+        "rowNumber": 45
       }
     ]
   },
