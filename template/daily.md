@@ -3,12 +3,9 @@ aliases: [{{date}}]
 tags: [{{date}}]
 ---
 
-- [x] ckecks todo today!(@[[{{date}}]] 7:00) [completion:: 250728]
-
 #### todo-today
 
 - [ ] ckecks todo today!(@[[{{date}}]] 7:00)
-
 
 ```dataviewjs
 const key ='(@[[{{date}}]]'
@@ -29,17 +26,6 @@ const today = '{{date}}'
 dv.list(
 	dv.pages()
 		.filter(p => {
-			const date = p.file.frontmatter.created.slice(0,11);
-
-			const today = new Date();
-
-			const year = `${today.getYear()}`;
-			const month = `${today.getMonth() + 101}`.slice(1, 3);
-			const day = `${today.getDate() + 100}`.slice(1, 3);
-
-			const formatted_today = `${year}-${month}-${day}`;
-
-			return date === formatted_today;
 			const date = p.file.mday;
 			const year = `${date.c.year}`;
 			const month = `${date.c.month + 100}`.slice(1, 3);
@@ -52,3 +38,5 @@ dv.list(
 		.map(p => dv.fileLink(p.file.path, false, p.file.path))
 )
 ```
+
+---
