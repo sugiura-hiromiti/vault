@@ -7,21 +7,28 @@
         "time": "2025-07-29 19:00",
         "rowNumber": 54
       }
+    ],
+    "daily/2025-07-30.md": [
+      {
+        "title": "sketcher: fix add/remove strategy of space indicator",
+        "time": "2025-07-30 11:14",
+        "rowNumber": 47
+      }
     ]
   },
   "debug": false,
   "settings": {
-    "reminderTime": "08:00",
+    "reminderTime": "09:00",
     "reminderTimeStep": 15,
     "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
-    "useSystemNotification": true,
+    "useSystemNotification": false,
     "autoCompleteTrigger": "(@",
     "primaryReminderFormat": "ReminderPluginReminderFormat",
     "enableReminderPluginReminderFormat": true,
     "dateFormat": "YYYY-MM-DD",
     "dateTimeFormat": "YYYY-MM-DD HH:mm",
-    "strictDateFormat": true,
-    "linkDatesToDailyNotes": true,
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
     "enableTasksPluginReminderFormat": false,
     "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
