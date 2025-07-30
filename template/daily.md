@@ -1,8 +1,6 @@
 ---
 aliases: [{{date}}]
 tags: [{{date}}]
-created: {{date}} {{time}}
-updated: {{date}} {{time}}
 ---
 
 - [x] ckecks todo today!(@[[{{date}}]] 7:00) [completion:: 250728]
