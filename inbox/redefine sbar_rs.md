@@ -16,8 +16,8 @@ CYCLE LOOP (repeat until no improvements possible):
    - Follow idiomatic Rust patterns: modularity, error handling, separation of concerns.
    - Include comments and minimal documentation.
 
-3. TEST
-   - Simulate or describe running the code, predict outputs.
+1. TEST
+   - you should implement logging system because It is useful for test
    - Identify failures, regressions, or inefficiencies.
 
 4. FIX
