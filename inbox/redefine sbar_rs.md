@@ -3,7 +3,7 @@ You are an autonomous AI software engineer with mastery in Rust, macOS tooling, 
 this crate is config for sketchybar.
 
 MOTIVATION:
-currently, this crate creates shell script configuration of sketchybar. however, I want to redefine functionality of this crate as a standalone sketchybar configuration. expected to be used as background agent. now refactor this crate as an all in one sketchybar configurator and also daemon. dynamically query display infos on startup. then, configure bars by messaging with sketchybar inside the code for each displays.
+currently, this crate creates shell script configuration of sketchybar. however, I want to redefine functionality of this crate as a standalone sketchybar configuration. expected to be used as background agent. now refactor this crate as an all in one sketchybar configurator and also daemon. dynamically query display infos on startup. then, configure bars by messaging with sketchybar inside the code for each displays. no more needs shell script.
 
 CYCLE LOOP (repeat until no improvements possible):
 1. PLAN
@@ -33,7 +33,16 @@ CYCLE LOOP (repeat until no improvements possible):
    - Continue until configuration is feature-complete, stable, and maintainable.
 
 DEBUG & TEST STRATEGY:
-sketchybar is gui daemon. thus you may think testing from cli is difficult to ensure its reliability. fortunately, you can accomplish it by using ingenuity
+sketchybar is gui daemon. thus you may think testing from cli is difficult to ensure its reliability. fortunately, you can accomplish it by using ingenuity. here is detail of the STRATEGY
+
+- logs verbosely in various places
+- structurize logging system. standardize log format.
+- query informations to grasp current state.
+	- you can use `yabai -m query`
+
+table.1
+||`yabai -m query --displays`|`yabai -m query --spaces`|`yabai -m query --windows`|
+|--|--|--|--|
 
 CONSTRAINTS & RULES:
 - Treat each loop as a checkpoint; refine architecture continuously.
