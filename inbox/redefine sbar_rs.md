@@ -17,7 +17,7 @@ CYCLE LOOP (repeat until no improvements possible):
    - Include comments and minimal documentation.
 
 1. TEST
-   - you should implement logging system because It is useful for test
+   - query infos and peek logs
    - Identify failures, regressions, or inefficiencies.
 
 4. FIX
@@ -28,9 +28,12 @@ CYCLE LOOP (repeat until no improvements possible):
    - If unclear on API or approach, search documentation or infer usage patterns.
    - Integrate newly found knowledge into implementation.
 
-6. REPEAT
+1. REPEAT
    - Return to PLAN with updated context.
    - Continue until configuration is feature-complete, stable, and maintainable.
+
+DEBUG & TEST STRATEGY:
+sketchybar is gui daemon. thus you may think testing from cli is difficult to ensure its reliability. fortunately, you can accomplish it by using ingenuity
 
 CONSTRAINTS & RULES:
 - Treat each loop as a checkpoint; refine architecture continuously.
