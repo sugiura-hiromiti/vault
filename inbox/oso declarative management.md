@@ -1,0 +1,2 @@
+- crate is generic term of package and workspace.
+	- crate can be package, workspace or both.
