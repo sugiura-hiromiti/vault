@@ -8,3 +8,6 @@ nothing but ~だけ
 nothing but the best 最高のものだけ
 bedding 寝具
 sore 痛い
+believed 最愛の
+resilience 回復力
+hind 後頭部
