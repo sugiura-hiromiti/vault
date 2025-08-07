@@ -7,3 +7,5 @@ node_modules
 稼働按分人員シーケンス.md
 *.nosync
 .obsidian/plugins/obsidian-git/
+**/histories.json
+.obsidian/plugins/obsidian-reminder-plugin/data.json
