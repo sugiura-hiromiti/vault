@@ -6,3 +6,5 @@ fix list
 		- [ ] fix workspace member to kernel, loader, xtask
 		- [ ] update [package.forced-target](https://doc.rust-lang.org/cargo/reference/unstable.html#per-package-target) depend on cli arg
 - [d] low priority
+
+[[oso_task]]
