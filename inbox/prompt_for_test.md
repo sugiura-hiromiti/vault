@@ -42,4 +42,4 @@ Generate → Run → Detect Failures → Fix Tests → Re-run → Repeat until c
 ## Exception Handling
 
 If a test failure appears to be caused by a program bug, pause changes to that test, flag it for review, and proceed to the next crate.  
-If interactive feedback is available, request me a permission to ignore or address the bug.
+If interactive feedback is available, request me a permission to ignore or address the bug. 
