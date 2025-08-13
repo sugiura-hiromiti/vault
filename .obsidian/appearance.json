@@ -1,0 +1,10 @@
+{
+  "interfaceFontFamily": "MesloLGL Nerd Font",
+  "textFontFamily": "MesloLGL Nerd Font",
+  "monospaceFontFamily": "MesloLGL Nerd Font",
+  "translucency": true,
+  "showViewHeader": false,
+  "showRibbon": false,
+  "baseFontSize": 19,
+  "cssTheme": "Things"
+}
