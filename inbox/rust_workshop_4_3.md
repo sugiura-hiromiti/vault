@@ -1,4 +1,4 @@
-# 4.3章 スライス型（The Slice Type）
+# 4.3章 スライス型
 
 ## 議論するポイント
 
@@ -24,15 +24,6 @@
 
 ## 理解度チェック
 
-1. 以下のコードがコンパイルエラーになる理由を説明してください。
-```rust
-fn main() {
-    let mut s = String::from("hello world");
-    let word = first_word(&s);
-    s.clear();
-    println!("{}", word);
-}
-```
 
 2. `&String`と`&str`の違いは何ですか？どちらを関数の引数として使うべきでしょうか？
 
