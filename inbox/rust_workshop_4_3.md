@@ -72,7 +72,7 @@ fn split_by_char(s: &str, delimiter: char) -> Vec<&str> {
 ```
 
 5. **安全な部分文字列取得**
-   指定された範囲が有効な場合のみ部分文字列を返すOption型を使った関数を実装してください。
+   指定された範囲が有効なutf-8文字列境界場合のみ部分文字列を返すOption型を使った関数を実装してください。
 ```rust
 fn safe_substring(s: &str, start: usize, end: usize) -> Option<&str> {
     // ここに実装
