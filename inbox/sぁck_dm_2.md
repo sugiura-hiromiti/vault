@@ -148,35 +148,23 @@ Real-time meetings by Google. Using your browser, share your video, desktop, and
 
 了解致しました
 
-![:raised_hands:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-small/1f64c.png)1
-
-[18:30](https://codemingle.slack.com/archives/D07R0A6PYV6/p1751448635512319)
 
 Codemingle運営事務局 
 
 Slackの投稿ありがとう！  
-すごくよい内容なのですが、一旦消してもらうことできますか？細かいことはまたあとで話しましょう（せっかく投稿してくれたのにごめん![:woman-bowing:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f647-200d-2640-fe0f.png)）
+すごくよい内容なのですが、一旦消してもらうことできますか？細かいことはまたあとで話しましょう（せっかく投稿してくれたのにごめん!
 
-![:woman-bowing:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-small/1f647-200d-2640-fe0f.png)1![:saluting_face:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-small/1fae1.png)1
 
-[18:31](https://codemingle.slack.com/archives/D07R0A6PYV6/p1751448685636939)
 
 寛行杉浦 
 
 削除致しました
 
-![:woman-bowing:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-small/1f647-200d-2640-fe0f.png)1
-
-[18:34](https://codemingle.slack.com/archives/D07R0A6PYV6/p1751448888304369)
 
 Codemingle運営事務局 
 
 別に杉浦さんは悪くないのですが、速やかにありがとう。  
 うちに鬱と双極の人2人いてあーゆー記事みるとフラッシュバックするのが1番の理由なのですが、また追々話そう。ありがとう
-
-![:woman-bowing:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-small/1f647-200d-2640-fe0f.png)1![:open_mouth:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-small/1f62e.png)1
-
-[22:12](https://codemingle.slack.com/archives/D07R0A6PYV6/p1751634771305199)
 
 
 
@@ -187,18 +175,14 @@ Codemingle運営事務局 
 ・indeedの口コミ投稿  
 ・正社員化について
 
-![:woman-bowing:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-small/1f647-200d-2640-fe0f.png)1![:saluting_face:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-small/1fae1.png)1
 
-[13:10](https://codemingle.slack.com/archives/D07R0A6PYV6/p1752120609410149)
 
 寛行杉浦 
 
 畏まりました  
 19:30~からで如何でしょうか？
 
-![:heart_eyes_cat:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-small/1f63b.png)1
 
-[13:11](https://codemingle.slack.com/archives/D07R0A6PYV6/p1752120662478769)
 
 Codemingle運営事務局 
 
