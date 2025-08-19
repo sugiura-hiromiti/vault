@@ -1,5 +1,4 @@
 [
-  "dataview",
   "obsidian-reading-time",
   "obsidian-icon-folder",
   "colored-tags",
@@ -12,5 +11,6 @@
   "obsidian-style-settings",
   "new-tab-plus",
   "obsidian-git",
-  "obisidian-note-linker"
+  "obisidian-note-linker",
+  "dataview"
 ]
