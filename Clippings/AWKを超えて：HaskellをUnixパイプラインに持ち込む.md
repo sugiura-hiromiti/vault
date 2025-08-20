@@ -9,7 +9,7 @@ description:
 tags:
   - "clippings"
 aliases: "AWKを超えて：HaskellをUnixパイプラインに持ち込む"
-status: "unread"
+status: "read"
 ---
 11
 
