@@ -7,7 +7,7 @@ created: 2025-07-06
 description: あなたのアクセスしているIPアドレス情報などをENVとJavaScriptで取得し表示します。あなたのIPアドレスからポート疎通・ping疎通・DNS索引・WHOIS情報も取得できます。
 tags:
   - clippings
-status: unread
+status: read
 aliases: 
 updated: 250722 17:05:37
 ---
