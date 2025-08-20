@@ -8,6 +8,7 @@ tags: [{{date}}]
 - [ ] ckecks todo today!(@[[{{date}}]] 7:00)
 
 ```dataviewjs
+const key ='(@[[{{date}}]]';
 const tl = dv.pages().file.tasks
 	.filter(task => !task.not_task)
 	.filter(task => {
