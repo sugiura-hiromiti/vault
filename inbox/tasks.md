@@ -10,24 +10,67 @@ updated: 2025-07-30 09:00:06
 # reminder
 
 ```dataviewjs
-let script=await dv.io.load('script/task.js');
-script=`const tl = ${script}`;
-script = `${script}.filter(task => !task.completed)`;
-script = `${script}.filter(task => !task.text.includes("{{date}}"))`;
-script = `${script}.filter(task => task.text.includes('(@'));`;
-script =`${script} dv.taskList(tl);`;
+const tl = dv.pages().file.tasks
+	.filter(task => !task.not_task)
+	.filter(task => {
+		const task_status = task.status;
 
-dv.executeJs(script);
+		if (
+			task_status === "?"
+			|| task_status === "!"
+			|| task_status === "b"
+			|| task_status === "c"
+			|| task_status === "d"
+			|| task_status === "f"
+			|| task_status === "i"
+			|| task_status === "k"
+			|| task_status === "l"
+			|| task_status === "p"
+			|| task_status === "u"
+			|| task_status === "w"
+		) {
+			return false;
+		} else {
+			return true;
+		}
+
+	})
+	.filter(task => !task.completed)
+	.filter(task => !task.text.includes("{{date}}"))
+	.filter(task => task.text.includes('(@'));
+
+dv.taskList(tl);
 ```
 
 # tasks
 
 ```dataviewjs
-let script=await dv.io.load('script/task.js');
-script=`const tl = ${script}`;
-script = `${script}.filter(task => !task.completed)`;
-script = `${script}.filter(task => !task.text.includes('(@'));`;
-script =`${script} dv.taskList(tl);`;
+const tl = dv.pages().file.tasks
+	.filter(task => !task.not_task)
+	.filter(task => {
+		const task_status = task.status;
 
-dv.executeJs(script);
+		if (
+			task_status === "?"
+			|| task_status === "!"
+			|| task_status === "b"
+			|| task_status === "c"
+			|| task_status === "d"
+			|| task_status === "f"
+			|| task_status === "i"
+			|| task_status === "k"
+			|| task_status === "l"
+			|| task_status === "p"
+			|| task_status === "u"
+			|| task_status === "w"
+		) {
+			return false;
+		} else {
+			return true;
+		}
+
+	})
+	.filter(task => !task.completed)
+	.filter(task => !task.text.includes('(@'));
+dv.taskList(tl);
 ```

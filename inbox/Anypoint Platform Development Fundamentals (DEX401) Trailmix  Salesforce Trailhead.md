@@ -8,7 +8,7 @@ created: 2025-05-22
 description: Get started with Anypoint Platform™ to build APIs and integrations, and gain skills to become a MuleSoft Certified Developer.
 tags:
   - clippings
-status: bm
+status: read
 aliases: 
 updated: 2025-06-10T06:33
 ---

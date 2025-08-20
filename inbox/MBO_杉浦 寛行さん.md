@@ -8,6 +8,6 @@ created: 2025-05-22
 description: 
 tags:
   - clippings
-status: bm
+status: read
 updated: 2025-06-10T06:33
 ---

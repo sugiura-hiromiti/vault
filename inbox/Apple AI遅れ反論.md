@@ -7,7 +7,7 @@ created: 2025-06-12
 description: ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming and more.
 tags:
   - clippings
-status: bm
+status: read
 aliases: 
 updated: 250623 09:41:03
 ---

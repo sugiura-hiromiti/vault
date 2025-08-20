@@ -33,15 +33,20 @@ dv.table(
 
 ```dataviewjs
 dv.table(
-	["link", "status"],
+	["link"],
 	dv.pages('#clippings').filter(p => {
 		const st = p.file.frontmatter.status;
-		return st === "unread" || st === "read";
+		return st === "unread";
 	}).map(p => 
-		[
-			dv.fileLink(p.file.path, false, p.file.frontmatter.title),
-			p.file.frontmatter.status
-		]
+		{
+			return [
+				dv.fileLink(
+					p.file.path,
+					false,
+					p.file.frontmatter.title
+				),
+			];
+		}
 	)
 )
 ```
