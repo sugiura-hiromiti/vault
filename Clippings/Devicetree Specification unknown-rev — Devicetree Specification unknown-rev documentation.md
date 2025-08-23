@@ -1,14 +1,15 @@
 ---
-title: "Devicetree Specification unknown-rev — Devicetree Specification unknown-rev documentation"
-source: "https://devicetree-specification.readthedocs.io/en/latest/index.html"
+title: Devicetree Specification unknown-rev — Devicetree Specification unknown-rev documentation
+source: https://devicetree-specification.readthedocs.io/en/latest/index.html
 author:
 published:
 created: 2025-08-19
 description:
 tags:
-  - "clippings"
-aliases: "Devicetree Specification unknown-rev — Devicetree Specification unknown-rev documentation"
-status: "bm"
+  - clippings
+aliases:
+  - Devicetree Specification unknown-rev — Devicetree Specification unknown-rev documentation
+status: bm
 ---
 ## Devicetree Specification unknown-rev
 

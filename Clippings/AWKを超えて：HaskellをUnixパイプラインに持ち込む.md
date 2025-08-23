@@ -1,15 +1,16 @@
 ---
-title: "AWKを超えて：HaskellをUnixパイプラインに持ち込む"
-source: "https://zenn.dev/koheiwada/articles/d10e206d9e66f0"
+title: AWKを超えて：HaskellをUnixパイプラインに持ち込む
+source: https://zenn.dev/koheiwada/articles/d10e206d9e66f0
 author:
   - "[[Zenn]]"
 published: 2025-08-16
 created: 2025-08-19
 description:
 tags:
-  - "clippings"
-aliases: "AWKを超えて：HaskellをUnixパイプラインに持ち込む"
-status: "read"
+  - clippings
+aliases:
+  - AWKを超えて：HaskellをUnixパイプラインに持ち込む
+status: read
 ---
 11
 

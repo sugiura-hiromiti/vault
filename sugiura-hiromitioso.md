@@ -1,15 +1,16 @@
 ---
-title: "sugiura-hiromiti/oso"
-source: "https://deepwiki.com/sugiura-hiromiti/oso"
+title: sugiura-hiromiti/oso
+source: https://deepwiki.com/sugiura-hiromiti/oso
 author:
   - "[[DeepWiki]]"
 published:
 created: 2025-08-20
-description: "This document provides a comprehensive overview of the OSO Operating System, an experimental pure Rust operating system primarily targeting aarch64 architecture. OSO represents a ground-up implementat"
+description: This document provides a comprehensive overview of the OSO Operating System, an experimental pure Rust operating system primarily targeting aarch64 architecture. OSO represents a ground-up implementat
 tags:
-  - "clippings"
-aliases: "sugiura-hiromiti/oso"
-status: "bm"
+  - clippings
+aliases:
+  - sugiura-hiromiti/oso
+status: bm
 ---
 [Get free private DeepWikis in Devin](https://deepwiki.com/private-repo)
 

@@ -1,6 +1,6 @@
 ---
 id: 25052908411390
-alias:
+aliases:
   - daily note
 tags:
   - obsidian
