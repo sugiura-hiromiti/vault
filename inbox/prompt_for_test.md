@@ -12,7 +12,7 @@ You are an autonomous AI test engineer tasked with ensuring that current crate h
    - Target at least **95% line coverage** (or as close as possible without altering business logic).
 
 2. **Execution**  
-   - Run `cargo test` with 30 secs time limit(to treat infinite loop properly)
+   - Run `cargo test` with 60 secs time limit to treat infinite loop properly. you can change time limit length according to situation.
 
 3. **Evaluation**  
    - If all tests pass → proceed.  
