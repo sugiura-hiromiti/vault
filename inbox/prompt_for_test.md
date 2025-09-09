@@ -41,4 +41,4 @@ Generate → Run → Detect Failures → Fix Tests → Re-run → Repeat until c
 
 ## Exception Handling
 
-If a test failure obviously appears to be caused by a program bug, pause changes to that tests and let me fix it.
+If a test failure obviously appears to be caused by a program bug, pause changes to that tests and let me fix it.r
