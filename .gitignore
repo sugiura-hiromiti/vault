@@ -1,0 +1,11 @@
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/graph.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/update-time-on-edit/data.json
+node_modules
+稼働按分人員シーケンス.md
+*.nosync
+.obsidian/plugins/obsidian-git/
+**/histories.json
+.obsidian/plugins/obsidian-reminder-plugin/data.json

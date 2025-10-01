@@ -1,0 +1,1 @@
+ast-grep(sg) is a fast and polyglot tool for code structural search, lint, rewriting at large scale. ast-grep LSP only works in projects that have sgconfig.y[a]ml in their root directories.
