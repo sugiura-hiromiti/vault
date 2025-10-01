@@ -24,7 +24,7 @@
           shellHook = ''
             echo -e "\033[1;32m\noutput environment loaded"
             echo -e "System: ${system}"
-            echo -e "zenn-cli:     $(which cargo 2>/dev/null || echo 'not found')\033[0m"
+            echo -e "zenn-cli:     $(which zenn 2>/dev/null || echo 'not found')\n\033[0m"
           '';
         };
       }

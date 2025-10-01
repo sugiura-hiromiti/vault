@@ -9,3 +9,4 @@ node_modules
 .obsidian/plugins/obsidian-git/
 **/histories.json
 .obsidian/plugins/obsidian-reminder-plugin/data.json
+.direnv/
