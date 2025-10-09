@@ -20,7 +20,7 @@ map L scrollRight
 map a enterInsertMode
 map r reload
 map i focusInput
-map c copyCurrentUrl
+# map c copyCurrentUrl
 map zf nextFrame
 map zF mainFrame
 map q previousTab
@@ -37,10 +37,11 @@ map v enterVisualMode
 map / enterFindMode
 map h goBack
 map l goForward
-map N performFind
-map n moveTabToNextWindow
+map n performFind
+map N performBackwardsFind
+map t moveTabToNewWindow
+map K moveTabToNextWindow
 map J joinTabs
 map < moveTabLeft
 map > moveTabRight
-map R toggleReaderMode
 ```
