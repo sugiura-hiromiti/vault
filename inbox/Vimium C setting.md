@@ -16,7 +16,7 @@ map G scrollToBottom
 map j scrollPageDown
 map k scrollPageUp
 map H scrollLeft
-map  scrollRight
+map L scrollRight
 map a enterInsertMode
 map r reload
 map i focusInput
