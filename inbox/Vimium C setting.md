@@ -35,8 +35,8 @@ map v enterVisualMode
 # map B Vomnibar.activateBookmarksInNewTab
 # map T Vomnibar.activateTabs
 map / enterFindMode
-map H goBack
-map L goForward
+map h goBack
+map l goForward
 map N performFind
 map n moveTabToNextWindow
 map J joinTabs
