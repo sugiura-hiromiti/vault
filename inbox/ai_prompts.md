@@ -8,6 +8,6 @@ current status is, XXX have been established. now we XXX.
 
 report what you've done, what you haven't and anything else questions. I will review how actually proceed to proof our milestone is accomplishable
 
-# feedback
+# product
 
-give back feedback to main branch. 
+now, we've completed poc stage. we shall start real implementation of v0.1 Milestone XXX. in contrast to poc stage, code cleanliness and well architectured codebase is priority 1 concerns. let's refactor POC codes into real product.
