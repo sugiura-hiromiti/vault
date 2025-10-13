@@ -10,4 +10,4 @@ report what you've done, what you haven't and anything else questions. I will re
 
 # product
 
-now, we've completed poc stage. we shall start real implementation of v0.1 Milestone XXX. in contrast to poc stage, code cleanliness and well architectured codebase is priority 1 concerns. let's refactor POC codes into real product.
+now, we've completed poc stage. we shall start real implementation of v0.1 Milestone XXX. in contrast to poc stage, code cleanliness and well architectured codebase is priority 1 concerns. let's refactor POC codes into real product. v0.1_TODOS.md will tell you precise tasks to complete.
