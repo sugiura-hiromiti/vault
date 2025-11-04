@@ -1,1 +1,2 @@
 githubアカウント
+smartHR住所がわかる書類
