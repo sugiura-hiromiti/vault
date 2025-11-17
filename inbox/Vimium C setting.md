@@ -20,7 +20,7 @@ map L scrollRight
 map a enterInsertMode
 map r reload
 map i focusInput
-# map c copyCurrentUrl
+map c copyCurrentUrl
 map zf nextFrame
 map zF mainFrame
 map q previousTab
@@ -29,11 +29,11 @@ map d duplicateTab
 map x removeTab goto="previous"
 map v enterVisualMode
 
-# map o Vomnibar.activate
-# map O Vomnibar.activateInNewTab
-# map b Vomnibar.activateBookmarks
-# map B Vomnibar.activateBookmarksInNewTab
-# map T Vomnibar.activateTabs
+map o Vomnibar.activate
+map O Vomnibar.activateInNewTab
+map b Vomnibar.activateBookmarks
+map B Vomnibar.activateBookmarksInNewTab
+map T Vomnibar.activateTabs
 map / enterFindMode
 map h goBack
 map l goForward
@@ -44,4 +44,5 @@ map K moveTabToNextWindow
 map J joinTabs
 map < moveTabLeft
 map > moveTabRight
+map ? showHints
 ```
