@@ -44,5 +44,5 @@ map K moveTabToNextWindow
 map J joinTabs
 map < moveTabLeft
 map > moveTabRight
-map ? showHints
+map ? showHelp
 ```
